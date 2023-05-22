@@ -8,7 +8,7 @@
 # url = https://resources.allsetlearning.com/chinese/grammar/ASGVME5V
 1	味	味	NOUN	_	_	3	subj	_	_
 2	道	道	NOUN	_	_	1	@m	_	_
-3	好	好	ADJ	_	_	0	root	_	_
+3	好	好	NOUN	_	_	0	root	_	_
 4	极	极	ADV	_	_	3	mod	_	Grammar_Target=Yes
 5	了	了	PART	_	_	4	discourse	_	Grammar_Target=Yes
 6	!	!	PUNCT	_	_	3	punct	_	_
