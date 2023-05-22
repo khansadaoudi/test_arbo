@@ -117,39 +117,13 @@
 # url = https://resources.allsetlearning.com/chinese/grammar/ASGUD25J
 1	正	正	ADV	_	_	6	mod	_	Grammar_Target=Yes
 2	好	好	ADJ	_	_	1	@m	_	Grammar_Target=Yes
-3	你	你	PRON	_	Number=Plur|Person=3	6	subj	_	_
+3	你	你	PRON	_	Person=3	6	subj	_	_
 4	们	们	PART	_	Number=Plur|Person=3	3	@m	_	_
 5	都	都	ADV	_	_	6	mod	_	_
 6	是	是	VERB	_	_	0	root	_	_
 7	单	单	ADJ	_	_	6	comp:obj	_	_
 8	身	身	NOUN	_	_	7	@m	_	_
 9	。	。	PUNCT	_	_	6	punct	_	_
-
-# sent_id = 1597
-# structure = Subj. + 正好 + [Verb Phrase]
-# text = 我 明天 见 他 ，正好 可以 问问 他 这 件 事 。
-# pinyin = Wǒ míngtiān jiàn tā, zhènghǎo kěyǐ wènwen tā zhè jiàn shì.
-# level = B1
-# structure_verbose = Coincidence with "zhenghao"
-# translation_english = I'm going to meet with him tomorrow. I can just ask him about this matter.
-# url = https://resources.allsetlearning.com/chinese/grammar/ASGUD25J
-1	我	我	PRON	_	Person=1	4	subj	_	_
-2	明	明	NOUN	_	_	4	mod	_	_
-3	天	天	NOUN	_	_	2	@m	_	_
-4	见	见	VERB	_	_	0	root	_	_
-5	他	他	PRON	_	Person=3	4	comp:obj	_	_
-6	，	，	PUNCT	_	_	9	punct	_	_
-7	正	正	ADV	_	_	9	mod	_	Grammar_Target=Yes
-8	好	好	ADJ	_	_	7	@m	_	Grammar_Target=Yes
-9	可	可	AUX	_	_	4	parataxis	_	_
-10	以	以	AUX	_	_	9	@m	_	_
-11	问	问	VERB	_	_	9	comp:aux	_	_
-12	问	问	VERB	_	_	11	conj:redup@m	_	_
-13	他	他	PRON	_	Person=3	11	comp:obj	_	_
-14	这	这	DET	_	_	15	det	_	_
-15	件	件	NOUN	_	_	16	clf	_	_
-16	事	事	NOUN	_	_	11	comp:obj	_	_
-17	。	。	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 1598
 # structure = Subj. + 正好 + [Verb Phrase]
