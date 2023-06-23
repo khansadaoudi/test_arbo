@@ -21,7 +21,7 @@
 # structure_verbose = Negation of "you" with "mei"
 # translation_english = We don't have money now.
 # url = https://resources.allsetlearning.com/chinese/grammar/ASGPNV3Q
-1	我	我	PRON	_	Person=1	6	subj	_	_
+1	我	我	PRON	_	Person=1	6	mod	_	_
 2	们	们	PART	_	Person=1	1	@m	_	_
 3	现	现	NOUN	_	_	6	mod	_	_
 4	在	在	NOUN	_	_	3	@m	_	_
@@ -29,22 +29,6 @@
 6	有	有	VERB	_	_	0	root	_	Grammar_Target=Yes
 7	钱	钱	NOUN	_	_	6	comp:obj	_	_
 8	。	。	PUNCT	_	_	6	punct	_	_
-
-# sent_id = 3
-# structure = 没 + 有 (+ Obj.)
-# text = 他 没有 工作 吗？
-# pinyin = Tā méiyǒu gōngzuò ma?
-# level = A1
-# structure_verbose = Negation of "you" with "mei"
-# translation_english = Does he not have a job?
-# url = https://resources.allsetlearning.com/chinese/grammar/ASGPNV3Q
-1	他	他	PRON	_	Person=3	3	subj	_	_
-2	没	没	ADV	_	_	3	mod	_	Grammar_Target=Yes
-3	有	有	VERB	_	_	0	root	_	Grammar_Target=Yes
-4	工	工	NOUN	_	_	3	comp:obj	_	_
-5	作	作	NOUN	_	_	4	@m	_	_
-6	吗	吗	PART	_	Mood=Inter	3	discourse	_	_
-7	？	？	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 4
 # structure = 没 + 有 (+ Obj.)
