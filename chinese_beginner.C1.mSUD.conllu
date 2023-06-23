@@ -13,6 +13,6 @@
 6	，	，	PUNCT	_	_	9	punct	_	_
 7	那	那	PART	_	_	9	discourse	_	_
 8	你	你	PRON	_	Person=2	9	subj	_	_
-9	来	来	VERB	_	_	1	parataxis	_	_
+9	来	来	VERB	_	_	_	_	_	_
 10	！	！	PUNCT	_	_	_	_	_	_
 
