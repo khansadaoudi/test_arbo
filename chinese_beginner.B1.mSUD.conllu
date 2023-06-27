@@ -1,18 +1,3 @@
-# sent_id = 1520
-# structure = Subj. + Adj. + 极了
-# text = 味道 好 极了 !
-# pinyin = Wèidào hǎo jíle!
-# level = B1
-# structure_verbose = Adjectives with "-ji le"
-# translation_english = The taste is perfect!
-# url = https://resources.allsetlearning.com/chinese/grammar/ASGVME5V
-1	味	味	NOUN	_	_	3	subj	_	_
-2	道	道	NOUN	_	_	1	@m	_	_
-3	好	好	NOUN	_	_	0	root	_	_
-4	极	极	ADV	_	_	3	mod	_	Grammar_Target=Yes
-5	了	了	PART	_	_	4	discourse	_	Grammar_Target=Yes
-6	!	!	PUNCT	_	_	3	punct	_	_
-
 # sent_id = 1521
 # structure = Subj. + Adj. + 极了
 # text = 他 的 英文 棒 极了 。

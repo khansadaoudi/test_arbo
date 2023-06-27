@@ -7,7 +7,7 @@
 # translation_english = Let's either go hiking or go for a soak in the hot springs.
 # url = https://resources.allsetlearning.com/chinese/grammar/ASGYXI5X
 1	咱	咱	PRON	_	Number=Plur|Person=1	5	subj	_	_
-2	们	们	PART	_	Number=Plur|Person=1	1	mod@m	_	_
+2	们	们	PART	_	Person=1	1	mod@m	_	_
 3	或	或	CCONJ	_	_	5	cc	_	Grammar_Target=Yes
 4	者	者	CCONJ	_	_	3	flat@m	_	Grammar_Target=Yes
 5	去	去	VERB	_	_	0	root	_	_
