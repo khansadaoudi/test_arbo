@@ -15,30 +15,6 @@
 7	了	了	PART	_	_	6	discourse	_	Grammar_Target=Yes
 8	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 1553
-# structure = Subj. + 不 / 没 + 全都 + Predicate
-# text = 你 说 得 太 快 了 ， 我 没 全 都 记 下来 。
-# pinyin = Nǐ shuō de tài kuài le, wǒ méi quán dōu jì xiàlái.
-# level = B1
-# structure_verbose = Indicating the whole with "quan"
-# translation_english = You spoke too fast. I didn't write down all of what you said.
-# url = https://resources.allsetlearning.com/chinese/grammar/ASGCPDSR
-1	你	你	PRON	_	Person=2	2	subj	_	_
-2	说	说	VERB	_	_	0	root	_	_
-3	得	得	PART	_	_	2	mod	_	_
-4	太	太	ADV	_	_	5	mod	_	_
-5	快	快	ADJ	_	_	3	comp:obj	_	_
-6	了	了	PART	_	_	5	discourse	_	_
-7	，	，	PUNCT	_	_	12	punct	_	_
-8	我	我	PRON	_	Person=1	12	subj	_	_
-9	没	没	ADV	_	_	12	mod	_	_
-10	全	全	ADV	_	_	12	mod	_	Grammar_Target=Yes
-11	都	都	ADV	_	_	12	mod	_	Grammar_Target=Yes
-12	记	记	VERB	_	_	2	parataxis	_	_
-13	下	下	VERB	_	_	12	comp:dir	_	_
-14	来	来	VERB	_	_	13	comp:dir	_	_
-15	。	。	PUNCT	_	_	2	punct	_	_
-
 # sent_id = 1554
 # structure = Adj. + Adj. + 的 (+ Noun)
 # text = 你 的 脸 红 红 的 。
