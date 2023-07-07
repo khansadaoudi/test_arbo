@@ -18,7 +18,7 @@
 10	泡	泡	VERB	_	_	5	conj	_	_
 11	温	温	ADJ	_	_	12	mod@m	_	_
 12	泉	泉	NOUN	_	_	10	comp:obj	_	_
-13	。	。	PUNCT	_	_	5	punct	_	_
+13	。	。	PUNCT	_	_	_	_	_	_
 
 # sent_id = 3877
 # structure = Verb + 起来
