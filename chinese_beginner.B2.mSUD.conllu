@@ -41,5 +41,5 @@
 11	藏	藏	VERB	_	_	5	comp:aux	_	_
 12	起	起	VERB	_	_	11	comp:dir	_	Grammar_Target=Yes
 13	来	来	VERB	_	_	12	comp:svc@m	_	Grammar_Target=Yes
-14	？	？	PUNCT	_	_	5	punct	_	_
+14	？	？	PUNCT	_	_	_	_	_	_
 
