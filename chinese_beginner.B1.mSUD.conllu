@@ -13,7 +13,7 @@
 5	棒	棒	ADJ	_	_	0	root	_	_
 6	极	极	ADV	_	_	5	mod	_	Grammar_Target=Yes
 7	了	了	PART	_	_	6	discourse	_	Grammar_Target=Yes
-8	。	。	PUNCT	_	_	5	punct	_	_
+8	。	。	PUNCT	_	_	_	_	_	_
 
 # sent_id = 1554
 # structure = Adj. + Adj. + 的 (+ Noun)
