@@ -7,7 +7,7 @@
 # url = https://resources.allsetlearning.com/chinese/grammar/ASGXXP6M
 1	说	说	VERB	_	_	0	root	_	_
 2	得	得	PART	_	_	1	mod	_	_
-3	倒	倒	ADV	_	_	4	mod	_	Grammar_Target=Yes
+3	倒	倒	ADV	_	_	_	_	_	Grammar_Target=Yes
 4	容	容	ADJ	_	_	_	_	_	_
 5	易	易	ADJ	_	_	_	_	_	_
 6	，	，	PUNCT	_	_	_	_	_	_
