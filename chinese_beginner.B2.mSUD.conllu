@@ -6,6 +6,7 @@
 # structure_verbose = Providing two options with double "huozhe"
 # translation_english = Let's either go hiking or go for a soak in the hot springs.
 # url = https://resources.allsetlearning.com/chinese/grammar/ASGYXI5X
+# sent_id = khansa
 1	咱	咱	PRON	_	Person=1	5	subj	_	_
 2	们	们	PART	_	Person=1	1	mod@m	_	_
 3	或	或	CCONJ	_	_	5	cc	_	Grammar_Target=Yes
