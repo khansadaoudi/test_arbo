@@ -36,7 +36,7 @@
 # url = https://resources.allsetlearning.com/chinese/grammar/ASGLEVUV
 1	热	热	ADJ	_	_	0	root	_	_
 2	死	死	ADV	_	_	1	mod	_	Grammar_Target=Yes
-3	了	了	PART	_	_	2	discourse	_	Grammar_Target=Yes
+3	了	了	PART	_	_	2	_	_	Grammar_Target=Yes
 4	！	！	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 405
