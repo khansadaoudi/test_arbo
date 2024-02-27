@@ -6,7 +6,7 @@
 # translation_english = I'm starving!
 # url = https://resources.allsetlearning.com/chinese/grammar/ASGLEVUV
 # sent_id = chinese_beginner.A2.mSUD__1
-1	我	我	PRON	_	Person=1	2	subj	_	_
+1	我	我	PRON	_	Person=2	2	subj	_	_
 2	饿	饿	ADJ	_	_	0	root	_	_
 3	死	死	ADV	_	_	2	mod	_	Grammar_Target=Yes
 4	了	了	PART	_	_	3	discourse	_	Grammar_Target=Yes
