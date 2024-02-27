@@ -5,13 +5,14 @@
 # structure_verbose = Negative adjectives with "-si le"
 # translation_english = I'm starving!
 # url = https://resources.allsetlearning.com/chinese/grammar/ASGLEVUV
+# sent_id = chinese_beginner.A2.mSUD__1
 1	我	我	PRON	_	Person=1	2	subj	_	_
 2	饿	饿	ADJ	_	_	0	root	_	_
 3	死	死	ADV	_	_	2	mod	_	Grammar_Target=Yes
 4	了	了	PART	_	_	3	discourse	_	Grammar_Target=Yes
 5	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 403
+# sent_id = chinese_beginner.A2.mSUD__2
 # structure = Adj. + 死了
 # text = 今天 累 死了。Literally, "tired to death"
 # pinyin = Jīntiān lèi  sǐ le!
@@ -26,7 +27,7 @@
 5	了	了	PART	_	_	4	discourse	_	Grammar_Target=Yes
 6	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 404
+# sent_id = chinese_beginner.A2.mSUD__3
 # structure = Adj. + 死了
 # text = 热 死了！Literally, "hot to death"
 # pinyin = Rè  sǐ le!
@@ -39,7 +40,7 @@
 3	了	了	PART	_	_	2	_	_	Grammar_Target=Yes
 4	！	！	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 405
+# sent_id = chinese_beginner.A2.mSUD__4
 # structure = Adj. + 死了
 # text = 这 几 天 忙 死了。Literally, "busy to death"
 # pinyin = Zhè jǐ tiān máng  sǐ le!
@@ -55,7 +56,7 @@
 6	了	了	PART	_	_	5	discourse	_	Grammar_Target=Yes
 7	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 406
+# sent_id = chinese_beginner.A2.mSUD__5
 # structure = Adj. + 死了
 # text = 这 件 衣服 丑 死了。Literally, "ugly to death"
 # pinyin = Zhè jiàn yīfu chǒu sǐ le!
@@ -72,7 +73,7 @@
 7	了	了	PART	_	_	6	discourse	_	Grammar_Target=Yes
 8	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 407
+# sent_id = chinese_beginner.A2.mSUD__6
 # structure = Adj. + 死了
 # text = 你 的 房间 脏 死了。Literally, "dirty to death"
 # pinyin = Nǐ de fángjiān zāng sǐ le!
@@ -89,7 +90,7 @@
 7	了	了	PART	_	_	6	discourse	_	Grammar_Target=Yes
 8	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 409
+# sent_id = chinese_beginner.A2.mSUD__7
 # structure = Adj. + 死了
 # text = 这里 的 东西 贵 死了。Literally, "expensive to death"
 # pinyin = Zhèlǐ de dōngxi guì sǐ le!
@@ -107,7 +108,7 @@
 8	了	了	PART	_	_	7	discourse	_	Grammar_Target=Yes
 9	。	。	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 412
+# sent_id = chinese_beginner.A2.mSUD__8
 # structure = Subj. + 差不多
 # text = 这 几 个 地方 都 差不多 。
 # pinyin = Zhè jǐ gè dìfang dōu chàbuduō.
@@ -126,7 +127,7 @@
 9	多	多	ADJ	_	_	7	@m	_	Grammar_Target=Yes
 10	。	。	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 413
+# sent_id = chinese_beginner.A2.mSUD__9
 # structure = Subj. + 差不多
 # text = 这 两 个 词 的 意思 差不多 。
 # pinyin = Zhè liǎng gè cí de yìsi chàbuduō.
@@ -146,7 +147,7 @@
 10	多	多	ADJ	_	_	8	@m	_	Grammar_Target=Yes
 11	。	。	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 414
+# sent_id = chinese_beginner.A2.mSUD__10
 # structure = Subj. + 差不多
 # text = 我们 的 想法 差不多 。
 # pinyin = Wǒmen de xiǎngfǎ chàbuduō.
@@ -164,7 +165,7 @@
 8	多	多	ADJ	_	_	6	@m	_	Grammar_Target=Yes
 9	。	。	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 418
+# sent_id = chinese_beginner.A2.mSUD__11
 # structure = A + 跟 / 和 +  B + 差不多
 # text = Starbucks 和 Costa 差不多。
 # pinyin = Starbucks hé Costa chàbuduō.
@@ -192,7 +193,7 @@
 18	多	多	ADJ	_	_	16	@m	_	Grammar_Target=Yes
 19	。	。	PUNCT	_	_	16	punct	_	_
 
-# sent_id = 423
+# sent_id = chinese_beginner.A2.mSUD__12
 # structure = 差不多 + Adj. / Verb
 # text = 我 跟 我哥哥 差不多 高。
 # pinyin = Wǒ gēn wǒ gēge chàbuduō gāo.
@@ -211,7 +212,7 @@
 9	高	高	ADJ	_	_	0	root	_	_
 10	。	。	PUNCT	_	_	9	punct	_	_
 
-# sent_id = 424
+# sent_id = chinese_beginner.A2.mSUD__13
 # structure = 差不多 + Adj. / Verb
 # text = 我 差不多 到 公园 门口 了。
 # pinyin = Wǒ chàbuduō dào gōngyuán ménkǒu le.
@@ -231,7 +232,7 @@
 10	了	了	PART	_	_	5	discourse	_	_
 11	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 425
+# sent_id = chinese_beginner.A2.mSUD__14
 # structure = 差不多 + Adj. / Verb
 # text = 电影 差不多 要 开始 了。
 # pinyin = Diànyǐng chàbuduō yào kāishǐ le.
@@ -250,7 +251,7 @@
 9	了	了	PART	_	_	6	discourse	_	_
 10	。	。	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 427
+# sent_id = chinese_beginner.A2.mSUD__15
 # structure = 差不多 ＋ [Quantity Phrase] / [Time Phrase]
 # text = 你 儿子 差不多 五 岁 了 吧？
 # pinyin = Nǐ érzi chàbuduō wǔ suì le ba?
@@ -270,7 +271,7 @@
 10	吧	吧	PART	_	_	8	discourse	_	_
 11	？	？	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 428
+# sent_id = chinese_beginner.A2.mSUD__16
 # structure = 差不多 ＋ [Quantity Phrase] / [Time Phrase]
 # text = 他 住 在 上海 差不多 三 个 月 了。
 # pinyin = Tā zhù zài Shànghǎi chàbuduō sān gè yuè le.
@@ -292,7 +293,7 @@
 12	了	了	PART	_	_	2	discourse	_	_
 13	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 431
+# sent_id = chinese_beginner.A2.mSUD__17
 # structure = 差不多 ＋ [Quantity Phrase] / [Time Phrase]
 # text = 差不多 两 个 星期 以前，我 在 北京 见 过 他。
 # pinyin = Chàbuduō liǎng gè xīngqī yǐqián, wǒ zài Běijīng jiàn guo tā.
@@ -319,7 +320,7 @@
 17	他	他	PRON	_	Person=3	15	comp:obj	_	_
 18	。	。	PUNCT	_	_	15	punct	_	_
 
-# sent_id = 432
+# sent_id = chinese_beginner.A2.mSUD__18
 # structure = Subj. + 都 + Verb + Obj.
 # text = 很 多 地方 都 有 wifi。
 # pinyin = Hěn duō dìfang dōu yǒu wifi.
@@ -339,7 +340,7 @@
 10	i	i	PROPN	_	_	9	flat:foreign@m	_	_
 11	。	。	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 433
+# sent_id = chinese_beginner.A2.mSUD__19
 # structure = Subj. + 都 + Verb + Obj.
 # text = 我 的 很 多 朋友 都 有 车。
 # pinyin = Wǒ de  hěn duō péngyou dōu yǒu chē.
@@ -358,7 +359,7 @@
 9	车	车	NOUN	_	_	8	comp:obj	_	_
 10	。	。	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 434
+# sent_id = chinese_beginner.A2.mSUD__20
 # structure = Subj. + 都 + Verb + Obj.
 # text = 很 多 美国人 都 喜欢 喝 咖啡 。
 # pinyin = Hěn duō  Měiguó rén dōu xǐhuan hē kāfēi.
@@ -379,7 +380,7 @@
 11	啡	啡	NOUN	_	_	10	@m	_	_
 12	。	。	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 435
+# sent_id = chinese_beginner.A2.mSUD__21
 # structure = Subj. + 都 + Verb + Obj.
 # text = 很 多 孩子 都 不 喜欢 上学。
 # pinyin = Hěn duō háizi dōu bù xǐhuan shàngxué.
@@ -399,7 +400,7 @@
 10	学	学	NOUN	_	_	9	comp:obj	_	_
 11	。	。	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 436
+# sent_id = chinese_beginner.A2.mSUD__22
 # structure = Subj. + 都 + Verb + Obj.
 # text = 很 多 年轻人 都 想 在 大 城市 工作。
 # pinyin = Hěn duō niánqīng rén dōu xiǎng zài dà chéngshì gōngzuò.
@@ -422,7 +423,7 @@
 13	作	作	NOUN	_	_	12	@m	_	_
 14	。	。	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 437
+# sent_id = chinese_beginner.A2.mSUD__23
 # structure = Subj. + 在 + Verb + Obj.
 # text = 她 在 看 书。
 # pinyin = Tā zài kànshū.
@@ -436,7 +437,7 @@
 4	书	书	NOUN	_	_	3	comp:obj	_	_
 5	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 438
+# sent_id = chinese_beginner.A2.mSUD__24
 # structure = Subj. + 在 + Verb + Obj.
 # text = 妈妈 在 打 电话。
 # pinyin = Māma zài dǎ diànhuà.
@@ -452,7 +453,7 @@
 6	话	话	NOUN	_	_	5	@m	_	_
 7	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 439
+# sent_id = chinese_beginner.A2.mSUD__25
 # structure = Subj. + 在 + Verb + Obj.
 # text = 谁 在 里面 洗澡？
 # pinyin = Shéi zài lǐmiàn xǐzǎo?
@@ -468,7 +469,7 @@
 6	澡	澡	NOUN	_	_	5	comp:obj	_	_
 7	？	？	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 440
+# sent_id = chinese_beginner.A2.mSUD__26
 # structure = Subj. + 在 + Verb + Obj.
 # text = 阿姨 正在 打扫 我们 的 房间。
 # pinyin = Āyí zhèngzài dǎsǎo wǒmen de fángjiān.
@@ -489,7 +490,7 @@
 11	间	间	NOUN	_	_	10	@m	_	_
 12	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 441
+# sent_id = chinese_beginner.A2.mSUD__27
 # structure = Subj. + 在 + Verb + Obj.
 # text = 昨天 晚上 七点，我们 在 吃饭。
 # pinyin = Zuótiān wǎnshang qīdiǎn, wǒmen zài chīfàn.
@@ -511,7 +512,7 @@
 12	饭	饭	NOUN	_	_	11	comp:obj	_	_
 13	。	。	PUNCT	_	_	10	punct	_	_
 
-# sent_id = 442
+# sent_id = chinese_beginner.A2.mSUD__28
 # structure = Subj. + 在 + Verb + Obj.
 # text = 老板 在 开会，没有 时间 见 你。
 # pinyin = Lǎobǎn zài kāihuì, méiyǒu shíjiān jiàn nǐ.
@@ -533,7 +534,7 @@
 12	你	你	PRON	_	Person=2	11	comp:obj	_	_
 13	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 443
+# sent_id = chinese_beginner.A2.mSUD__29
 # structure = Subj. + 在 + Verb + Obj.
 # text = 我 现在 在 上班，不方便 离开。
 # pinyin = Wǒ xiànzài zài shàngbān, bù fāngbiàn líkāi.
@@ -555,7 +556,7 @@
 12	开	开	VERB	_	_	11	@m	_	_
 13	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 444
+# sent_id = chinese_beginner.A2.mSUD__30
 # structure = Subj. + 在 + Verb + Obj.
 # text = 我们 正在 上课，请 你 等 一会儿。
 # pinyin = Wǒmen zhèngzài shàngkè, qǐng nǐ děng yīhuìr.
@@ -578,7 +579,7 @@
 13	儿	儿	PART	_	_	12	discourse	_	_
 14	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 445
+# sent_id = chinese_beginner.A2.mSUD__31
 # structure = Subj. + 在 + Verb + Obj.
 # text = 你 正在 开车，不 可以 玩 手机。
 # pinyin = Nǐ zhèngzài kāichē, bù kěyǐ wán shǒujī.
@@ -600,7 +601,7 @@
 12	机	机	NOUN	_	_	11	@m	_	_
 13	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 446
+# sent_id = chinese_beginner.A2.mSUD__32
 # structure = Subj. + 在 + Verb + Obj.
 # text = 你 给 我 打 电话 的时候，我 正在 跟 朋友 打 游戏 。
 # pinyin = Nǐ gěi wǒ dǎ diànhuà de shíhou, wǒ zhèngzài gēn péngyou dǎ yóuxì.
@@ -629,7 +630,7 @@
 19	戏	戏	NOUN	_	_	18	@m	_	_
 20	。	。	PUNCT	_	_	13	punct	_	_
 
-# sent_id = 448
+# sent_id = chinese_beginner.A2.mSUD__33
 # structure = Subj. + 正在 + Verb + Obj.
 # text = 妈妈 在 打 电话。
 # level = A2
@@ -643,7 +644,7 @@
 6	话	话	NOUN	_	_	5	@m	_	_
 7	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 457
+# sent_id = chinese_beginner.A2.mSUD__34
 # structure = Subj. + 一直 + Predicate
 # text = 我 一直 在 学习 中文 。
 # pinyin = Wǒ yīzhí zài xuéxí Zhōngwén.
@@ -661,7 +662,7 @@
 8	文	文	NOUN	_	_	7	@m	_	_
 9	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 458
+# sent_id = chinese_beginner.A2.mSUD__35
 # structure = Subj. + 一直 + Predicate
 # text = 昨天 晚上 我 一直 在 做作业。
 # pinyin = Zuótiān wǎnshang wǒ yīzhí zài zuò zuòyè.
@@ -682,7 +683,7 @@
 11	业	业	NOUN	_	_	9	@m	_	_
 12	。	。	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 459
+# sent_id = chinese_beginner.A2.mSUD__36
 # structure = Subj. + 一直 + Predicate
 # text = 老板 一直 很 忙 。"Always" is more natural than "continuously."
 # pinyin = Lǎobǎn yīzhí hěn máng.
@@ -698,7 +699,7 @@
 6	忙	忙	ADJ	_	_	0	root	_	_
 7	。	。	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 460
+# sent_id = chinese_beginner.A2.mSUD__37
 # structure = Subj. + 一直 + Predicate
 # text = 我 一直 很 喜欢 你。
 # pinyin = Wǒ yīzhí hěn xǐhuan nǐ.
@@ -715,7 +716,7 @@
 7	你	你	PRON	_	Person=2	5	comp:obj	_	_
 8	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 461
+# sent_id = chinese_beginner.A2.mSUD__38
 # structure = Subj. + 一直 + Predicate
 # text = 爸爸 一直 都 不 抽烟。
 # pinyin = Bàba yīzhí dōu bù chōuyān.
@@ -733,7 +734,7 @@
 8	烟	烟	NOUN	_	_	7	comp:obj	_	_
 9	。	。	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 462
+# sent_id = chinese_beginner.A2.mSUD__39
 # structure = Subj. + 一直 + Predicate
 # text = 我 男朋友 一直在 中国 教 英文。
 # pinyin = Wǒ nánpéngyou yīzhí zài Zhōngguó jiāo Yīngwén.
@@ -755,7 +756,7 @@
 12	文	文	NOUN	_	_	11	@m	_	_
 13	。	。	PUNCT	_	_	10	punct	_	_
 
-# sent_id = 466
+# sent_id = chinese_beginner.A2.mSUD__40
 # structure = Subj. + 一直 + Predicate
 # text = 北京 的 空气 一直 很 不 好。
 # pinyin = Běijīng de kōngqì yīzhí hěn bù hǎo.
@@ -775,7 +776,7 @@
 10	好	好	ADJ	_	_	0	root	_	_
 11	。	。	PUNCT	_	_	10	punct	_	_
 
-# sent_id = 467
+# sent_id = chinese_beginner.A2.mSUD__41
 # structure = 已经 + [Verb Phrase] + 了
 # text = 他们 已经 走 了。with just a verb
 # pinyin = Tāmen yǐjīng zǒu le.
@@ -791,7 +792,7 @@
 6	了	了	PART	_	_	5	discourse	_	Grammar_Target=Yes
 7	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 468
+# sent_id = chinese_beginner.A2.mSUD__42
 # structure = 已经 + [Verb Phrase] + 了
 # text = 我 已经 有 男朋友 了 。 with a verb phrase
 # pinyin = Wǒ yǐjīng yǒu nánpéngyou le.
@@ -809,7 +810,7 @@
 8	了	了	PART	_	_	4	discourse	_	Grammar_Target=Yes
 9	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 469
+# sent_id = chinese_beginner.A2.mSUD__43
 # structure = 已经 + [Verb Phrase] + 了
 # text = 宝宝 已经 会 说话 了。with a verb phrase
 # pinyin = Bǎobao yǐjīng huì shuōhuà le.
@@ -827,7 +828,7 @@
 8	了	了	PART	_	_	5	discourse	_	Grammar_Target=Yes
 9	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 470
+# sent_id = chinese_beginner.A2.mSUD__44
 # structure = 已经 + [Verb Phrase] + 了
 # text = 妈妈 已经 回来 了。with just a verb
 # pinyin = Māma yǐjīng huílái le.
@@ -844,7 +845,7 @@
 7	了	了	PART	_	_	5	discourse	_	Grammar_Target=Yes
 8	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 471
+# sent_id = chinese_beginner.A2.mSUD__45
 # structure = 已经 + [Verb Phrase] + 了
 # text = 他 已经 上 飞机 了。with a verb phrase
 # pinyin = Tā yǐjīng shàng fēijī le.
@@ -861,7 +862,7 @@
 7	了	了	PART	_	_	4	discourse	_	Grammar_Target=Yes
 8	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 472
+# sent_id = chinese_beginner.A2.mSUD__46
 # structure = 已经 + (很 +) Adj. + 了
 # text = 爸爸 妈妈 已经 老 了。
 # pinyin = Bàba māma yǐjīng lǎo le.
@@ -879,7 +880,7 @@
 8	了	了	PART	_	_	7	discourse	_	Grammar_Target=Yes
 9	。	。	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 473
+# sent_id = chinese_beginner.A2.mSUD__47
 # structure = 已经 + (很 +) Adj. + 了
 # text = 已经 很 便宜 了。
 # pinyin = Yǐjīng hěn piányi le.
@@ -895,7 +896,7 @@
 6	了	了	PART	_	_	4	discourse	_	Grammar_Target=Yes
 7	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 474
+# sent_id = chinese_beginner.A2.mSUD__48
 # structure = 已经 + (很 +) Adj. + 了
 # text = 你 女朋友 已经 很 漂亮 了！
 # pinyin = Nǐ nǚpéngyou yǐjīng hěn piàoliang le!
@@ -915,7 +916,7 @@
 10	了	了	PART	_	Aspect=Perf	8	discourse	_	Grammar_Target=Yes
 11	！	！	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 475
+# sent_id = chinese_beginner.A2.mSUD__49
 # structure = 已经 + (很 +) Adj. + 了
 # text = 你 的 感冒 已经 好 了 吗 ？
 # pinyin = Nǐ de gǎnmào yǐjīng hǎo le ma?
@@ -934,7 +935,7 @@
 9	吗	吗	PART	_	Mood=Inter	7	discourse	_	_
 10	？	？	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 476
+# sent_id = chinese_beginner.A2.mSUD__50
 # structure = 已经 + (很 +) Adj. + 了
 # text = 已经 很 晚 了，我们 走 吧。
 # pinyin = Yǐjīng hěn wǎn le, wǒmen zǒu ba.
@@ -954,7 +955,7 @@
 10	吧	吧	PART	_	_	9	discourse	_	_
 11	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 477
+# sent_id = chinese_beginner.A2.mSUD__51
 # structure = 已经 + Time + 了
 # text = 已经 11点 了，女儿 还 没 回来 。
 # pinyin = Yǐjīng shíyī diǎn le, nǚ'ér hái méi huílái.
@@ -977,7 +978,7 @@
 13	来	来	VERB	_	_	12	comp:dir@m	_	_
 14	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 478
+# sent_id = chinese_beginner.A2.mSUD__52
 # structure = 已经 + Time + 了
 # text = 爷爷 已经 八十五 岁 了 。
 # pinyin = Yéye yǐjīng bāshí-wǔ suì le.
@@ -996,7 +997,7 @@
 9	了	了	PART	_	_	8	discourse	_	Grammar_Target=Yes
 10	。	。	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 479
+# sent_id = chinese_beginner.A2.mSUD__53
 # structure = 已经 + Time + 了
 # text = 我 学习 中文 已经 一 年 了 。
 # pinyin = Wǒ xuéxí Zhōngwén yǐjīng yī nián le.
@@ -1016,7 +1017,7 @@
 10	了	了	PART	_	_	2	discourse	_	Grammar_Target=Yes
 11	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 480
+# sent_id = chinese_beginner.A2.mSUD__54
 # structure = 已经 + Time + 了
 # text = 他 在 洗手间 里 已经 半 个 小时 了 。
 # pinyin = Tā zài xǐshǒujiān lǐ yǐjīng bàn gè xiǎoshí le.
@@ -1039,7 +1040,7 @@
 13	了	了	PART	_	_	12	discourse	_	Grammar_Target=Yes
 14	。	。	PUNCT	_	_	12	punct	_	_
 
-# sent_id = 481
+# sent_id = chinese_beginner.A2.mSUD__55
 # structure = 已经 + Time + 了
 # text = 爸爸 去 北京 出差 已经 两 天 了 。
 # pinyin = Bàba qù Běijīng chūchāi yǐjīng liǎng tiān le.
@@ -1061,7 +1062,7 @@
 12	了	了	PART	_	_	3	discourse	_	Grammar_Target=Yes
 13	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 482
+# sent_id = chinese_beginner.A2.mSUD__56
 # structure = 已经 + 不 + Verb + 了
 # text = 我 已经 不 喜欢 你 了 。
 # pinyin = Wǒ yǐjīng bù xǐhuan nǐ le.
@@ -1079,7 +1080,7 @@
 8	了	了	PART	_	_	5	discourse	_	Grammar_Target=Yes
 9	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 483
+# sent_id = chinese_beginner.A2.mSUD__57
 # structure = 已经 + 不 + Verb + 了
 # text = 他 已经 不 爱 他 的 猫 了 。
 # pinyin = Tā yǐjīng bù ài tā de māo le.
@@ -1098,7 +1099,7 @@
 9	了	了	PART	_	_	5	discourse	_	Grammar_Target=Yes
 10	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 484
+# sent_id = chinese_beginner.A2.mSUD__58
 # structure = 已经 + 不 + Verb + 了
 # text = 他们 已经 不 住 在 中国 了 。
 # pinyin = Tāmen yǐjīng bù zhù zài Zhōngguó le.
@@ -1118,7 +1119,7 @@
 10	了	了	PART	_	_	6	discourse	_	Grammar_Target=Yes
 11	。	。	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 485
+# sent_id = chinese_beginner.A2.mSUD__59
 # structure = 已经 + 不 + Verb + 了
 # text = 我 已经 不 需要 父母 的 钱 了 。
 # pinyin = Wǒ yǐjīng bù xūyào fùmǔ de qián le.
@@ -1139,7 +1140,7 @@
 11	了	了	PART	_	_	5	discourse	_	Grammar_Target=Yes
 12	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 486
+# sent_id = chinese_beginner.A2.mSUD__60
 # structure = 已经 + 不 + Verb + 了
 # text = 你 已经 不 在 Google 工作 了 吗 ？
 # pinyin = Nǐ yǐjīng bù zài Google gōngzuò le ma?
@@ -1164,7 +1165,7 @@
 15	吗	吗	PART	_	Mood=Inter	12	discourse	_	_
 16	？	？	PUNCT	_	_	12	punct	_	_
 
-# sent_id = 487
+# sent_id = chinese_beginner.A2.mSUD__61
 # structure = Subj. + 总是 + Verb
 # text = 他 总是 迟到。
 # pinyin = Tā zǒngshì chídào.
@@ -1179,7 +1180,7 @@
 5	到	到	VERB	_	_	4	@m	_	_
 6	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 488
+# sent_id = chinese_beginner.A2.mSUD__62
 # structure = Subj. + 总是 + Verb
 # text = 我 总是 忘记 这 个 词。
 # pinyin = Wǒ zǒngshì wàngjì zhège cí.
@@ -1197,7 +1198,7 @@
 8	词	词	NOUN	_	_	4	comp:obj	_	_
 9	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 489
+# sent_id = chinese_beginner.A2.mSUD__63
 # structure = Subj. + 总是 + Verb
 # text = 他 总是 一个人 吃饭。
 # pinyin = Tā zǒngshì yīgèrén chīfàn.
@@ -1215,7 +1216,7 @@
 8	饭	饭	NOUN	_	_	7	comp:obj	_	_
 9	。	。	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 490
+# sent_id = chinese_beginner.A2.mSUD__64
 # structure = Subj. + 总是 + Verb
 # text = 你 男朋友 总是  说 脏话。
 # pinyin = Nǐ nánpéngyou zǒngshì shuō zānghuà.
@@ -1234,7 +1235,7 @@
 9	话	话	NOUN	_	_	7	comp:obj	_	_
 10	。	。	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 491
+# sent_id = chinese_beginner.A2.mSUD__65
 # structure = Subj. + 总是 + Verb
 # text = 我 的 学生 总是 问 我 很多 有意思 的 问题。
 # pinyin = Wǒ de xuéshēng zǒngshì wèn wǒ hěn duō yǒu yìsi de wèntí.
@@ -1260,7 +1261,7 @@
 16	题	题	NOUN	_	_	15	@m	_	_
 17	。	。	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 492
+# sent_id = chinese_beginner.A2.mSUD__66
 # structure = 总是 + Adv. + Adj.
 # text = 他 总是 很 累。
 # pinyin = Tā zǒngshì hěn lèi.
@@ -1275,7 +1276,7 @@
 5	累	累	ADJ	_	_	0	root	_	_
 6	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 494
+# sent_id = chinese_beginner.A2.mSUD__67
 # structure = 总是 + Adv. + Adj.
 # text = 你 家 总是 很 干净。
 # pinyin = Nǐ jiā zǒngshì hěn gānjìng.
@@ -1292,7 +1293,7 @@
 7	净	净	ADJ	_	_	6	@m	_	_
 8	。	。	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 495
+# sent_id = chinese_beginner.A2.mSUD__68
 # structure = 总是 + Adv. + Adj.
 # text = 孩子们 总是 非常 开心。
 # pinyin = Háizi men zǒngshì fēicháng kāixīn.
@@ -1311,7 +1312,7 @@
 9	心	心	NOUN	_	_	8	@m	_	_
 10	。	。	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 496
+# sent_id = chinese_beginner.A2.mSUD__69
 # structure = 总是 + Adv. + Adj.
 # text = 我 的 学生 总是 特别 努力。
 # pinyin = Wǒ de xuéshēng zǒngshì tèbié nǔlì.
@@ -1331,7 +1332,7 @@
 10	力	力	NOUN	_	_	9	@m	_	_
 11	。	。	PUNCT	_	_	9	punct	_	_
 
-# sent_id = 497
+# sent_id = chinese_beginner.A2.mSUD__70
 # structure = Subj. + Verb + Obj. 1， 还 + Verb + Obj. 2
 # text = 她 有 一 个 弟弟，还 有 一 个 妹妹。
 # pinyin = Tā yǒu yī gè dìdi, hái yǒu yī gè mèimei.
@@ -1354,7 +1355,7 @@
 13	妹	妹	NOUN	_	_	12	@m	_	_
 14	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 498
+# sent_id = chinese_beginner.A2.mSUD__71
 # structure = Subj. + Verb + Obj. 1， 还 + Verb + Obj. 2
 # text = 我 老板 会 说 法语，还 会 说 日语。
 # pinyin = Wǒ lǎobǎn huì shuō Fǎyǔ, hái huì shuō Rìyǔ.
@@ -1377,7 +1378,7 @@
 13	语	语	NOUN	_	_	12	@m	_	_
 14	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 499
+# sent_id = chinese_beginner.A2.mSUD__72
 # structure = Subj. + Verb + Obj. 1， 还 + Verb + Obj. 2
 # text = 你 要 一 杯 咖啡，还 要 什么？
 # pinyin = Nǐ yào yī bēi kāfēi, hái yào shénme?
@@ -1398,7 +1399,7 @@
 11	么	么	PART	_	_	10	@m	_	_
 12	？	？	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 500
+# sent_id = chinese_beginner.A2.mSUD__73
 # structure = Subj. + Verb + Obj. 1， 还 + Verb + Obj. 2
 # text = 我 想 吃 冰淇淋，还 想 吃 汉堡。
 # pinyin = Wǒ xiǎng chī bīngqílín, hái xiǎng chī hànbǎo.
@@ -1420,7 +1421,7 @@
 12	堡	堡	NOUN	_	_	11	@m	_	_
 13	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 502
+# sent_id = chinese_beginner.A2.mSUD__74
 # structure = Subj. + Verb + Obj. 1， 还 + Verb + Obj. 2
 # text = 你 晚上 在家 做 了 作业，还 做 了 什么？
 # pinyin = Nǐ wǎnshang zài jiā zuò le zuòyè, hái zuò le shénme?
@@ -1445,7 +1446,7 @@
 15	么	么	NOUN	_	_	14	@m	_	_
 16	？	？	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 506
+# sent_id = chinese_beginner.A2.mSUD__75
 # structure = Subj. + 刚 + Verb
 # text = 我们 刚 知道。
 # pinyin = Wǒmen gāng zhīdào.
@@ -1460,7 +1461,7 @@
 5	道	道	VERB	_	_	4	@m	_	_
 6	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 519
+# sent_id = chinese_beginner.A2.mSUD__76
 # structure = Subj. + 刚 + Verb (+ Obj.)  + Duration
 # text = 她  刚 结婚  三 个 月 。
 # pinyin = Tā gāng jiéhūn sān gè yuè.
@@ -1477,7 +1478,7 @@
 7	月	月	NOUN	_	_	3	mod	_	_
 8	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 520
+# sent_id = chinese_beginner.A2.mSUD__77
 # structure = Subj. + 刚 + Verb (+ Obj.)  + Duration
 # text = 我 的 车 刚 买 两 天，开 的时候 小心 点。
 # pinyin = Wǒ de chē gāng mǎi liǎng tiān, kāi de shíhou xiǎoxīn diǎn.
@@ -1502,7 +1503,7 @@
 15	点	点	ADV	_	_	13	mod	_	_
 16	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 521
+# sent_id = chinese_beginner.A2.mSUD__78
 # structure = 只 + Verb
 # text = 我 只 有 一 个 哥哥。
 # pinyin = Wǒ zhǐ yǒu yī gè gēge.
@@ -1519,7 +1520,7 @@
 7	哥	哥	NOUN	_	_	6	@m	_	_
 8	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 522
+# sent_id = chinese_beginner.A2.mSUD__79
 # structure = 只 + Verb
 # text = 我们 只 有 十块 钱。
 # pinyin = Wǒmen zhǐ yǒu shí kuài qián.
@@ -1536,7 +1537,7 @@
 7	钱	钱	NOUN	_	_	4	comp:obj	_	_
 8	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 523
+# sent_id = chinese_beginner.A2.mSUD__80
 # structure = 只 + Verb
 # text = 我们 公司 只 有 两个员工。
 # pinyin = Wǒmen gōngsī zhǐ yǒu liǎng gè yuángōng.
@@ -1556,7 +1557,7 @@
 10	工	工	NOUN	_	_	9	@m	_	_
 11	。	。	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 524
+# sent_id = chinese_beginner.A2.mSUD__81
 # structure = 只 + Verb
 # text = 你 只 爱 吃 肉 吗？
 # pinyin = Nǐ zhǐ ài chī ròu ma?
@@ -1572,7 +1573,7 @@
 6	吗	吗	PART	_	Mood=Inter	3	discourse	_	_
 7	？	？	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 525
+# sent_id = chinese_beginner.A2.mSUD__82
 # structure = 只 + Verb
 # text = 他们 只 会 说 英文。
 # pinyin = Tāmen zhǐ huì shuō Yīngwén.
@@ -1589,7 +1590,7 @@
 7	文	文	NOUN	_	_	6	@m	_	_
 8	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 556
+# sent_id = chinese_beginner.A2.mSUD__83
 # structure = 别 + Verb (+ Obj.)
 # text = 别  喝 太 多。
 # pinyin = Bié hē tài duō.
@@ -1603,7 +1604,7 @@
 4	多	多	ADJ	_	_	2	mod	_	_
 5	。	。	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 557
+# sent_id = chinese_beginner.A2.mSUD__84
 # structure = 别 + Verb (+ Obj.)
 # text = 喝酒 以后 别 开车。
 # pinyin = Hējiǔ yǐhòu bié kāichē.
@@ -1620,7 +1621,7 @@
 7	车	车	NOUN	_	_	6	comp:obj	_	_
 8	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 558
+# sent_id = chinese_beginner.A2.mSUD__85
 # structure = 别 + Verb (+ Obj.)
 # text = 吃饭 的 时候 别 玩 手机。
 # pinyin = Chīfàn de shíhou bié wán shǒujī.
@@ -1639,7 +1640,7 @@
 9	机	机	NOUN	_	_	8	@m	_	_
 10	。	。	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 570
+# sent_id = chinese_beginner.A2.mSUD__86
 # structure = Subj. + 多 + Adj. ?
 # text = 她 多 高？
 # pinyin = Tā duō gāo?
@@ -1652,7 +1653,7 @@
 3	高	高	ADJ	_	_	0	root	_	_
 4	？	？	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 571
+# sent_id = chinese_beginner.A2.mSUD__87
 # structure = Subj. + 多 + Adj. ?
 # text = 你家 多 大？
 # pinyin = Nǐ jiā duō dà?
@@ -1666,7 +1667,7 @@
 4	大	大	ADJ	_	_	0	root	_	_
 5	？	？	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 572
+# sent_id = chinese_beginner.A2.mSUD__88
 # structure = Subj. + 多 + Adj. ?
 # text = 你 的 孩子 多 大？
 # pinyin = Nǐ de háizi duō dà?
@@ -1682,7 +1683,7 @@
 6	大	大	ADJ	_	_	0	root	_	_
 7	？	？	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 573
+# sent_id = chinese_beginner.A2.mSUD__89
 # structure = Subj. + 多 + Adj. ?
 # text = 黄河 多 长？
 # pinyin = Huánghé duō cháng?
@@ -1696,7 +1697,7 @@
 4	长	长	ADJ	_	_	0	root	_	_
 5	？	？	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 575
+# sent_id = chinese_beginner.A2.mSUD__90
 # structure = Subj. + 多 + Adj. ?
 # text = 你 要 在 美国 待 多 久？
 # pinyin = Nǐ yào zài Měiguó dāi duō jiǔ?
@@ -1714,7 +1715,7 @@
 8	久	久	ADJ	_	_	6	mod	_	_
 9	？	？	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 576
+# sent_id = chinese_beginner.A2.mSUD__91
 # structure = Subj. + 多 + Adj. ?
 # text = 这些 东西 多 重？
 # pinyin = Zhèxiē dōngxi duō zhòng?
@@ -1730,7 +1731,7 @@
 6	重	重	ADJ	_	_	0	root	_	_
 7	？	？	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 577
+# sent_id = chinese_beginner.A2.mSUD__92
 # structure = Subj. + 多 + Adj. ?
 # text = 你 知道 我们 现在 多 胖 吗？
 # pinyin = Nǐ zhīdào wǒmen xiànzài duō pàng ma?
@@ -1750,7 +1751,7 @@
 10	吗	吗	PART	_	Mood=Inter	2	discourse	_	_
 11	？	？	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 578
+# sent_id = chinese_beginner.A2.mSUD__93
 # structure = Subj. + 多 + Adj. ?
 # text = 你 知道 这里 的 冬天 多 冷 吗？
 # pinyin = Nǐ zhīdào zhèlǐ de dōngtiān duō lěng ma?
@@ -1771,7 +1772,7 @@
 11	吗	吗	PART	_	Mood=Inter	2	discourse	_	_
 12	？	？	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 579
+# sent_id = chinese_beginner.A2.mSUD__94
 # structure = Subj. + 多 + Adj. ?
 # text = 你 知道 上海 的 房子 多 贵 吗？
 # pinyin = Nǐ zhīdào Shànghǎi de fángzi duō guì ma?
@@ -1780,8 +1781,8 @@
 # translation_english = Do you know how expensive housing is in Shanghai?
 # url = https://resources.allsetlearning.com/chinese/grammar/ASG9LLJU
 1	你	你	PRON	_	Person=2	2	subj	_	_
-2	知	知	VERB	_	_	0	root	_	_
-3	道	道	VERB	_	_	2	@m	_	_
+2	知	知	V	_	_	0	root	_	_
+3	道	道	V	_	_	2	@m	_	_
 4	上	上	PROPN	_	_	6	comp:obj	_	_
 5	海	海	PROPN	_	_	4	@m	_	_
 6	的	的	PART	_	Case=Gen	7	mod	_	_
@@ -1792,7 +1793,7 @@
 11	吗	吗	PART	_	Mood=Inter	2	discourse	_	_
 12	？	？	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 580
+# sent_id = chinese_beginner.A2.mSUD__95
 # structure = Noun 1 + 跟 / 和 + Noun 2 + 一样
 # text = 我 和 你 一样 。
 # pinyin = Wǒ hé nǐ yīyàng.
@@ -1807,7 +1808,7 @@
 5	样	样	NOUN	_	_	0	root	_	Grammar_Target=Yes
 6	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 581
+# sent_id = chinese_beginner.A2.mSUD__96
 # structure = Noun 1 + 跟 / 和 + Noun 2 + 一样
 # text = 他 的 性格 跟 他 妈妈 一样 。
 # pinyin = Tā de xìnggé gēn tā māma yīyàng.
@@ -1827,7 +1828,7 @@
 10	样	样	NOUN	_	_	0	root	_	Grammar_Target=Yes
 11	。	。	PUNCT	_	_	10	punct	_	_
 
-# sent_id = 582
+# sent_id = chinese_beginner.A2.mSUD__97
 # structure = Noun 1 + 跟 / 和 + Noun 2 + 一样
 # text = 北京 的 天气 和 上海  不 一样 。
 # pinyin = Běijīng de tiānqì hé Shànghǎi bù yīyàng.
@@ -1848,7 +1849,7 @@
 11	样	样	NOUN	_	_	0	root	_	Grammar_Target=Yes
 12	。	。	PUNCT	_	_	11	punct	_	_
 
-# sent_id = 583
+# sent_id = chinese_beginner.A2.mSUD__98
 # structure = Noun 1 + 跟 / 和 + Noun 2 + 一样
 # text = 这 个 词 的 意思 和 那 个 词 一样 吗 ？
 # pinyin = Zhège cí de yìsi hé nàge cí yīyàng ma?
@@ -1871,7 +1872,7 @@
 13	吗	吗	PART	_	Mood=Inter	12	discourse	_	_
 14	？	？	PUNCT	_	_	12	punct	_	_
 
-# sent_id = 584
+# sent_id = chinese_beginner.A2.mSUD__99
 # structure = Noun 1 + 跟 / 和 + Noun 2 + 一样
 # text = 美国 文化 跟 中国 文化 不 一样 。
 # pinyin = Měiguó wénhuà gēn Zhōngguó wénhuà bù yīyàng.
@@ -1893,7 +1894,7 @@
 12	样	样	NOUN	_	_	0	root	_	Grammar_Target=Yes
 13	。	。	PUNCT	_	_	12	punct	_	_
 
-# sent_id = 585
+# sent_id = chinese_beginner.A2.mSUD__100
 # structure = Noun 1 + 跟 / 和 + Noun 2 + 一样 + Adj.
 # text = 你家 跟 我家 一样 大。
 # pinyin = Nǐ jiā gēn  wǒ jiā yīyàng dà.
@@ -1911,7 +1912,7 @@
 8	大	大	ADJ	_	_	0	root	_	_
 9	。	。	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 586
+# sent_id = chinese_beginner.A2.mSUD__101
 # structure = Noun 1 + 跟 / 和 + Noun 2 + 一样 + Adj.
 # text = 她 和 她 哥哥 一样 高。
 # pinyin = Tā hé tā gēge yīyàng gāo.
@@ -1929,7 +1930,7 @@
 8	高	高	ADJ	_	_	0	root	_	_
 9	。	。	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 587
+# sent_id = chinese_beginner.A2.mSUD__102
 # structure = Noun 1 + 跟 / 和 + Noun 2 + 一样 + Adj.
 # text = 你 的 头发 和 我的 头发 一样 长。
 # pinyin = Nǐ de tóufa hé wǒ de tóufa yīyàng cháng.
@@ -1951,7 +1952,7 @@
 12	长	长	ADJ	_	_	0	root	_	_
 13	。	。	PUNCT	_	_	12	punct	_	_
 
-# sent_id = 592
+# sent_id = chinese_beginner.A2.mSUD__103
 # structure = Subj. + 有一点(儿) + Adj.
 # text = 昨天 有一点 热 。
 # pinyin = Zuótiān yǒuyīdiǎn rè.
@@ -1967,7 +1968,7 @@
 6	热	热	ADJ	_	_	3	comp:obj	_	_
 7	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 593
+# sent_id = chinese_beginner.A2.mSUD__104
 # structure = Subj. + 有一点(儿) + Adj.
 # text = 上海 的 冬天 有一点 冷。
 # pinyin = Shànghǎi de dōngtiān yǒuyīdiǎn lěng.
@@ -1986,7 +1987,7 @@
 9	冷	冷	ADJ	_	_	6	comp:obj	_	_
 10	。	。	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 594
+# sent_id = chinese_beginner.A2.mSUD__105
 # structure = Subj. + 有一点(儿) + Adj.
 # text = 我弟弟 有点 胖 。
 # pinyin = Wǒ dìdi yǒudiǎn pàng.
@@ -2002,7 +2003,7 @@
 6	胖	胖	ADJ	_	_	4	comp:obj	_	_
 7	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 595
+# sent_id = chinese_beginner.A2.mSUD__106
 # structure = Subj. + 有一点(儿) + Adj.
 # text = 今天 有点 累 。
 # pinyin = Jīntiān yǒudiǎn lèi.
@@ -2017,7 +2018,7 @@
 5	累	累	ADJ	_	_	3	comp:obj	_	_
 6	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 596
+# sent_id = chinese_beginner.A2.mSUD__107
 # structure = Subj. + 有一点(儿) + Adj.
 # text = 这个 月 公司 有点  忙 。
 # pinyin = Zhège yuè gōngsī yǒudiǎn máng.
@@ -2035,7 +2036,7 @@
 8	忙	忙	ADJ	_	_	6	comp:obj	_	_
 9	。	。	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 597
+# sent_id = chinese_beginner.A2.mSUD__108
 # structure = Subj. + 有一点(儿) + Adj.
 # text = 这 个 地方 有点 吵 ，我们 走吧 。
 # pinyin = Zhège dìfang yǒudiǎn  chǎo, wǒmen zǒu ba.
@@ -2057,7 +2058,7 @@
 12	吧	吧	PART	_	_	11	discourse	_	_
 13	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 598
+# sent_id = chinese_beginner.A2.mSUD__109
 # structure = Subj. + 有一点(儿) + Adj.
 # text = 爸爸 回来 有点 晚 ，妈妈 有点 不高兴 。
 # pinyin = Bàba huílái yǒudiǎn wǎn, māma yǒudiǎn bù gāoxìng.
@@ -2082,7 +2083,7 @@
 15	兴	兴	ADJ	_	_	14	@m	_	_
 16	。	。	PUNCT	_	_	11	punct	_	_
 
-# sent_id = 599
+# sent_id = chinese_beginner.A2.mSUD__110
 # structure = Subj. + 有一点(儿) + Adj.
 # text = 老师 今天 有点 不 舒服 ，所以 没 来上课 。
 # pinyin = Lǎoshī jīntiān yǒudiǎn bù shūfu, suǒyǐ méi lái shàngkè.
@@ -2108,7 +2109,7 @@
 16	课	课	NOUN	_	_	15	comp:obj	_	_
 17	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 605
+# sent_id = chinese_beginner.A2.mSUD__111
 # structure = Subj. + 有点(儿) + Adj.
 # text = 今天 有点 累 。
 # level = A2
@@ -2121,7 +2122,7 @@
 5	累	累	ADJ	_	_	3	comp:obj	_	_
 6	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 607
+# sent_id = chinese_beginner.A2.mSUD__112
 # structure = Subj. + 有点(儿) + Adj.
 # text = 这 个 地方 有点 吵 ，我们 走吧 。
 # level = A2
@@ -2141,7 +2142,7 @@
 12	吧	吧	PART	_	_	11	discourse	_	_
 13	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 639
+# sent_id = chinese_beginner.A2.mSUD__113
 # structure = 更 + Adj.
 # text = 结婚 以后， 她 变 得 更 漂亮 了。
 # pinyin = Jiéhūn yǐhòu, tā biàn de gèng piàoliang le.
@@ -2163,7 +2164,7 @@
 12	了	了	PART	_	_	7	discourse	_	_
 13	。	。	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 782
+# sent_id = chinese_beginner.A2.mSUD__114
 # structure = Time / Verb + 以后, ....
 # text = 几年  以后 ，我们 公司 会 更 大。
 # pinyin = Jǐ nián  yǐhòu, wǒmen gōngsī huì gèng dà.
@@ -2185,7 +2186,7 @@
 12	大	大	ADJ	_	_	10	comp:obj	_	_
 13	。	。	PUNCT	_	_	10	punct	_	_
 
-# sent_id = 786
+# sent_id = chinese_beginner.A2.mSUD__115
 # structure = Time / Verb + 以后, ....
 # text = 你 到家 以后 给 我 打电话。
 # pinyin = Nǐ dào jiā yǐhòu gěi wǒ dǎ diànhuà.
@@ -2205,7 +2206,7 @@
 10	话	话	NOUN	_	_	9	@m	_	_
 11	。	。	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 903
+# sent_id = chinese_beginner.A2.mSUD__116
 # structure = 几 + Measure Word + Noun
 # text = 桌子 上 有 几 本 书。
 # pinyin = Zhuōzi shàng yǒu jǐ běn shū.
@@ -2222,7 +2223,7 @@
 7	书	书	NOUN	_	_	4	comp:obj	_	_
 8	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 919
+# sent_id = chinese_beginner.A2.mSUD__117
 # structure = 好几 + Measure Word + Noun
 # text = 我 有  好几 个 室友 。
 # pinyin = Wǒ yǒu hǎojǐ gè shìyǒu.
@@ -2239,7 +2240,7 @@
 7	友	友	NOUN	_	_	6	@m	_	_
 8	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 920
+# sent_id = chinese_beginner.A2.mSUD__118
 # structure = 好几 + Measure Word + Noun
 # text = 我 奶奶 有 好几 个 孩子 。
 # pinyin = Wǒ nǎinai yǒu hǎojǐ gè háizi.
@@ -2258,7 +2259,7 @@
 9	子	子	NOUN	_	_	8	@m	_	_
 10	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 921
+# sent_id = chinese_beginner.A2.mSUD__119
 # structure = 好几 + Measure Word + Noun
 # text = 他 吃 了 好几 碗 米饭 。
 # pinyin = Tā chī le hǎojǐ wǎn mǐfàn.
@@ -2276,7 +2277,7 @@
 8	饭	饭	NOUN	_	_	7	@m	_	_
 9	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 922
+# sent_id = chinese_beginner.A2.mSUD__120
 # structure = 好几 + Measure Word + Noun
 # text = 我们 去 过 好几 次 北京 。
 # pinyin = Wǒmen qù guo hǎojǐ cì Běijīng.
@@ -2295,7 +2296,7 @@
 9	京	京	PROPN	_	_	8	@m	_	_
 10	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 923
+# sent_id = chinese_beginner.A2.mSUD__121
 # structure = Subj. + Adj. + 了
 # text = 我 饿 了 。
 # pinyin = Wǒ è le.
@@ -2308,7 +2309,7 @@
 3	了	了	PART	_	_	2	discourse	_	Grammar_Target=Yes
 4	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 924
+# sent_id = chinese_beginner.A2.mSUD__122
 # structure = Subj. + Adj. + 了
 # text = 孩子们 都 累 了 。
 # pinyin = Háizi men dōu lèi le.
@@ -2324,7 +2325,7 @@
 6	了	了	PART	_	_	5	discourse	_	Grammar_Target=Yes
 7	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 925
+# sent_id = chinese_beginner.A2.mSUD__123
 # structure = Subj. + Adj. + 了
 # text = 妈妈 老 了 。We aren't used to thinking of her as old, but she is now.
 # pinyin = Māma lǎo le.
@@ -2338,7 +2339,7 @@
 4	了	了	PART	_	_	3	discourse	_	Grammar_Target=Yes
 5	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 926
+# sent_id = chinese_beginner.A2.mSUD__124
 # structure = Subj. + Adj. + 了
 # text = 你 胖 了 。You used to not be fat.
 # pinyin = Nǐ pàng le.
@@ -2351,7 +2352,7 @@
 3	了	了	PART	_	_	2	discourse	_	Grammar_Target=Yes
 4	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 927
+# sent_id = chinese_beginner.A2.mSUD__125
 # structure = Subj. + Adj. + 了
 # text = 你 是不是 生气 了 ？
 # pinyin = Nǐ shì bu shì shēngqì le?
@@ -2368,7 +2369,7 @@
 7	了	了	PART	_	_	2	discourse	_	Grammar_Target=Yes
 8	？	？	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 928
+# sent_id = chinese_beginner.A2.mSUD__126
 # structure = Subj. + Verb + 了
 # text = 下雨 了 。It wasn't raining, but now it is.
 # pinyin = Xià yǔ le.
@@ -2381,7 +2382,7 @@
 3	了	了	PART	_	_	1	discourse	_	Grammar_Target=Yes
 4	。	。	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 929
+# sent_id = chinese_beginner.A2.mSUD__127
 # structure = Subj. + Verb + 了
 # text = 宝宝 会 说话 了 。He couldn't before.
 # pinyin = Bǎobao huì shuōhuà le.
@@ -2397,7 +2398,7 @@
 6	了	了	PART	_	_	3	discourse	_	Grammar_Target=Yes
 7	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 930
+# sent_id = chinese_beginner.A2.mSUD__128
 # structure = Subj. + Verb + 了
 # text = 他 当 经理 了 。He wasn't a manager before.
 # pinyin = Tā dāng jīnglǐ le.
@@ -2412,7 +2413,7 @@
 5	了	了	PART	_	_	2	discourse	_	Grammar_Target=Yes
 6	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 931
+# sent_id = chinese_beginner.A2.mSUD__129
 # structure = Subj. + Verb + 了
 # text = 你 有 女朋友 了 ？He didn't have one before.
 # pinyin = Nǐ yǒu nǚpéngyou le?
@@ -2428,7 +2429,7 @@
 6	了	了	PART	_	_	2	discourse	_	Grammar_Target=Yes
 7	？	？	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 932
+# sent_id = chinese_beginner.A2.mSUD__130
 # structure = Subj. + Verb + 了
 # text = 我 男朋友 找到 新 工作 了 。A big change for sure.
 # pinyin = Wǒ nánpéngyou zhǎodào xīn gōngzuò le.
@@ -2448,7 +2449,7 @@
 10	了	了	PART	_	_	5	discourse	_	Grammar_Target=Yes
 11	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 933
+# sent_id = chinese_beginner.A2.mSUD__131
 # structure = Subj. + 不 + Verb + 了
 # text = 我 不 买 了 。I had previously decided to buy it.
 # pinyin = Wǒ bù mǎi le.
@@ -2462,7 +2463,7 @@
 4	了	了	PART	_	_	3	discourse	_	Grammar_Target=Yes
 5	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 934
+# sent_id = chinese_beginner.A2.mSUD__132
 # structure = Subj. + 不 + Verb + 了
 # text = 我 不 回家 吃 晚饭 了 。I had previously decided to go home for dinner.
 # pinyin = Wǒ bù huí jiā chī wǎnfàn le.
@@ -2480,7 +2481,7 @@
 8	了	了	PART	_	_	3	discourse	_	Grammar_Target=Yes
 9	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 935
+# sent_id = chinese_beginner.A2.mSUD__133
 # structure = Subj. + 不 + Verb + 了
 # text = 我 不 去 看电影 了 。I had said I was going.
 # pinyin = Wǒ bù qù kàn diànyǐng le.
@@ -2497,7 +2498,7 @@
 7	了	了	PART	_	_	3	discourse	_	Grammar_Target=Yes
 8	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 936
+# sent_id = chinese_beginner.A2.mSUD__134
 # structure = Subj. + 不 + Verb + 了
 # text = 我 不 结婚 了 。I had previously planned to get married.
 # pinyin = Wǒ bù jiéhūn le.
@@ -2512,7 +2513,7 @@
 5	了	了	PART	_	_	3	discourse	_	Grammar_Target=Yes
 6	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 941
+# sent_id = chinese_beginner.A2.mSUD__135
 # structure = Subj. + Verb + 了
 # text = 他们 到 了 。
 # pinyin = Tāmen dào le.
@@ -2526,7 +2527,7 @@
 4	了	了	PART	_	_	3	discourse	_	Grammar_Target=Yes
 5	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 942
+# sent_id = chinese_beginner.A2.mSUD__136
 # structure = Subj. + Verb + 了
 # text = 我 买 了 。
 # pinyin = Wǒ mǎi le.
@@ -2539,7 +2540,7 @@
 3	了	了	PART	_	_	2	discourse	_	Grammar_Target=Yes
 4	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 943
+# sent_id = chinese_beginner.A2.mSUD__137
 # structure = Subj. + Verb + 了
 # text = 我们 都 去 了 。
 # pinyin = Wǒmen dōu qù le.
@@ -2554,7 +2555,7 @@
 5	了	了	PART	_	_	4	discourse	_	Grammar_Target=Yes
 6	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 944
+# sent_id = chinese_beginner.A2.mSUD__138
 # structure = Subj. + Verb + 了
 # text = 我 找到 了 ！
 # pinyin = Wǒ zhǎodào le!
@@ -2568,7 +2569,7 @@
 4	了	了	PART	_	_	2	discourse	_	Grammar_Target=Yes
 5	！	！	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 945
+# sent_id = chinese_beginner.A2.mSUD__139
 # structure = Subj. + Time + Verb + 了 + Obj.
 # text = 我 今天 吃 了 早饭 。
 # pinyin = Wǒ jīntiān chī le zǎofàn.
@@ -2585,7 +2586,7 @@
 7	饭	饭	NOUN	_	_	4	comp:obj	_	_
 8	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 946
+# sent_id = chinese_beginner.A2.mSUD__140
 # structure = Subj. + Time + Verb + 了 + Obj.
 # text = 她 上个 月 去 了  北京 。
 # pinyin = Tā shàng gè yuè qù le  Běijīng.
@@ -2603,7 +2604,7 @@
 8	京	京	PROPN	_	_	7	@m	_	_
 9	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 947
+# sent_id = chinese_beginner.A2.mSUD__141
 # structure = Subj. + Time + Verb + 了 + Obj.
 # text = 中午 我 见 了 朋友 。
 # pinyin = Zhōngwǔ wǒ jiàn le péngyou.
@@ -2620,7 +2621,7 @@
 7	友	友	NOUN	_	_	6	@m	_	_
 8	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 948
+# sent_id = chinese_beginner.A2.mSUD__142
 # structure = Time + Subj. + Verb + 了 + Obj.
 # text = 我 今天 吃 了 早饭 。
 # level = A2
@@ -2635,7 +2636,7 @@
 7	饭	饭	NOUN	_	_	4	comp:obj	_	_
 8	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 949
+# sent_id = chinese_beginner.A2.mSUD__143
 # structure = Time + Subj. + Verb + 了 + Obj.
 # text = 她 上个 月 去 了  北京 。
 # level = A2
@@ -2651,7 +2652,7 @@
 8	京	京	PROPN	_	_	7	@m	_	_
 9	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 950
+# sent_id = chinese_beginner.A2.mSUD__144
 # structure = Time + Subj. + Verb + 了 + Obj.
 # text = 中午 我 见 了 朋友 。
 # level = A2
@@ -2666,7 +2667,7 @@
 7	友	友	NOUN	_	_	6	@m	_	_
 8	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 951
+# sent_id = chinese_beginner.A2.mSUD__145
 # structure = Subj. + Verb + 了 + [Number + Measure Word] + Obj.
 # text = 老师 问 了 五 个 问题 。
 # pinyin = Lǎoshī wèn le wǔ gè wèntí.
@@ -2684,7 +2685,7 @@
 8	题	题	NOUN	_	_	7	@m	_	_
 9	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 952
+# sent_id = chinese_beginner.A2.mSUD__146
 # structure = Subj. + Verb + 了 + [Number + Measure Word] + Obj.
 # text = 我 买 了 三 本 书 。
 # pinyin = Wǒ mǎi le sān běn shū.
@@ -2700,7 +2701,7 @@
 6	书	书	NOUN	_	_	2	comp:obj	_	_
 7	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 954
+# sent_id = chinese_beginner.A2.mSUD__147
 # structure = Subj. + Verb + Obj. + 了
 # text = 上个 月 我 去 台湾 了 。
 # pinyin = Shàng gè yuè wǒ qù Táiwān le.
@@ -2718,7 +2719,7 @@
 8	了	了	PART	_	_	5	discourse	_	Grammar_Target=Yes
 9	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 955
+# sent_id = chinese_beginner.A2.mSUD__148
 # structure = Subj. + Verb + Obj. + 了
 # text = 昨天 晚上 我 看见 UFO 了 。
 # pinyin = Zuótiān wǎnshang wǒ kànjiàn UFO le.
@@ -2739,7 +2740,7 @@
 11	了	了	PART	_	_	6	discourse	_	Grammar_Target=Yes
 12	。	。	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 956
+# sent_id = chinese_beginner.A2.mSUD__149
 # structure = Subj. + 来 / 去 + Place + Verb / [Verb Phrase] + 了
 # text = 昨天 她 来 我 家 吃饭 了 。
 # pinyin = Zuótiān tā lái wǒ jiā chīfàn le.
@@ -2758,7 +2759,7 @@
 9	了	了	PART	_	_	4	discourse	_	Grammar_Target=Yes
 10	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 991
+# sent_id = chinese_beginner.A2.mSUD__150
 # structure = [New Situation] + 了
 # text = 快 点儿 ，开会 了 ！
 # pinyin = Kuài diǎnr, kāihuì le!
@@ -2775,7 +2776,7 @@
 7	了	了	PART	_	_	5	discourse	_	Grammar_Target=Yes
 8	！	！	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 993
+# sent_id = chinese_beginner.A2.mSUD__151
 # structure = Statement + 呢
 # text = 我 不 要 回家 。还 早 呢 ！
 # pinyin = Wǒ bù yào huíjiā. Hái zǎo ne!
@@ -2794,7 +2795,7 @@
 9	呢	呢	PART	_	_	8	discourse	_	Grammar_Target=Yes
 10	！	！	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 994
+# sent_id = chinese_beginner.A2.mSUD__152
 # structure = Statement + 呢
 # text = 太 远 了，坐 火车 要 十 个 小时 呢。
 # pinyin = Tài yuǎn le, zuò huǒchē yào shí gè xiǎoshí ne.
@@ -2817,7 +2818,7 @@
 13	呢	呢	PART	_	_	8	discourse	_	Grammar_Target=Yes
 14	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 996
+# sent_id = chinese_beginner.A2.mSUD__153
 # structure = Statement + 呢
 # text = 雨 还 很 大 呢，我们 不 要 出去 了。
 # pinyin = Yǔ hái hěn dàne, wǒmen bùyào chūqù le .
@@ -2840,7 +2841,7 @@
 13	了	了	PART	_	_	10	discourse	_	_
 14	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 997
+# sent_id = chinese_beginner.A2.mSUD__154
 # structure = Statement + 呢
 # text = 你 喝 吧，还有 很 多 可乐 呢。
 # pinyin = Nǐ hē ba, háiyǒu hěn duō kělène.
@@ -2861,7 +2862,7 @@
 11	呢	呢	PART	_	_	6	discourse	_	Grammar_Target=Yes
 12	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 998
+# sent_id = chinese_beginner.A2.mSUD__155
 # structure = Statement + 呢
 # text = 爸爸 在 工作 呢，不 能 和 你 一起 玩。
 # pinyin = Bàba zài gōngzuò ne, bù néng hé nǐ yīqǐ wán.
@@ -2885,7 +2886,7 @@
 14	玩	玩	VERB	_	_	9	comp:aux	_	_
 15	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 1077
+# sent_id = chinese_beginner.A2.mSUD__156
 # structure = Subj. + 要 + Verb
 # text = 她 要 去 大城市 找 工作。
 # pinyin = Tā yào qù dà chéngshì zhǎo gōngzuò.
@@ -2904,7 +2905,7 @@
 9	作	作	NOUN	_	_	8	@m	_	_
 10	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 1080
+# sent_id = chinese_beginner.A2.mSUD__157
 # structure = Subj. + 要 + Verb
 # text = 我们 明天 要 上班。logically, most people don't really WANT to work
 # pinyin = Wǒmen míngtiān yào shàngbān.
@@ -2921,7 +2922,7 @@
 7	班	班	NOUN	_	_	6	comp:obj	_	_
 8	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 1081
+# sent_id = chinese_beginner.A2.mSUD__158
 # structure = Subj. + 要 + Verb
 # text = 老板 今天 要 见 一个 新 客户。
 # pinyin = Lǎobǎn jīntiān yào jiàn yī gè xīn kèhù.
@@ -2942,7 +2943,7 @@
 11	户	户	NOUN	_	_	10	@m	_	_
 12	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 1083
+# sent_id = chinese_beginner.A2.mSUD__159
 # structure = Subj. + 要 + Verb
 # text = 明天 下雨， 你 要 带 伞。
 # pinyin = Míngtiān xiàyǔ, nǐ yào dài sǎn.
@@ -2961,7 +2962,7 @@
 9	伞	伞	NOUN	_	_	8	comp:obj	_	_
 10	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 1084
+# sent_id = chinese_beginner.A2.mSUD__160
 # structure = Subj. + 要 + Verb
 # text = 星期五 我们 要 开会。
 # pinyin = Xīngqīwǔ wǒmen yào kāihuì.
@@ -2979,7 +2980,7 @@
 8	会	会	NOUN	_	_	7	comp:obj	_	_
 9	。	。	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 1101
+# sent_id = chinese_beginner.A2.mSUD__161
 # structure = Subj. + 会 + Verb + Obj.
 # text = 明天 会 下雨 吗？
 # pinyin = Míngtiān huì xiàyǔ ma?
@@ -2995,7 +2996,7 @@
 6	吗	吗	PART	_	Mood=Inter	3	discourse	_	_
 7	？	？	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 1102
+# sent_id = chinese_beginner.A2.mSUD__162
 # structure = Subj. + 会 + Verb + Obj.
 # text = 我 出去 一下，很 快 会 回来。
 # pinyin = Wǒ chūqù yīxià, hěnkuài huì huílái.
@@ -3016,7 +3017,7 @@
 11	来	来	VERB	_	_	10	comp:dir	_	_
 12	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 1103
+# sent_id = chinese_beginner.A2.mSUD__163
 # structure = Subj. + 会 + Verb + Obj.
 # text = 老板 会 同意 吗？
 # pinyin = Lǎobǎn huì  tóngyì ma?
@@ -3032,7 +3033,7 @@
 6	吗	吗	PART	_	Mood=Inter	3	discourse	_	_
 7	？	？	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 1104
+# sent_id = chinese_beginner.A2.mSUD__164
 # structure = Subj. + 会 + Verb + Obj.
 # text = 你 女儿 会 听 你 的 话。
 # pinyin = Nǐ nǚér huì tīng nǐ de huà.
@@ -3050,7 +3051,7 @@
 8	话	话	NOUN	_	_	5	comp:obj	_	_
 9	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 1105
+# sent_id = chinese_beginner.A2.mSUD__165
 # structure = Subj. + 会 + Verb + Obj.
 # text = 下班 以后 ， 我 会 给 你 打 电话。
 # pinyin = Xiàbān yǐhòu, wǒ huì gěi nǐ dǎ diànhuà.
@@ -3072,7 +3073,7 @@
 12	话	话	NOUN	_	_	11	@m	_	_
 13	。	。	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 1106
+# sent_id = chinese_beginner.A2.mSUD__166
 # structure = Subj. + 不 + 会 + Verb + Obj.
 # text = 我们  不 会 告诉 你。
 # pinyin = Wǒmen bù huì gàosu nǐ.
@@ -3089,7 +3090,7 @@
 7	你	你	PRON	_	Person=2	5	comp:obj	_	_
 8	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 1107
+# sent_id = chinese_beginner.A2.mSUD__167
 # structure = Subj. + 不 + 会 + Verb + Obj.
 # text = 他 不 会 跟 你 结婚 。
 # pinyin = Tā bù huì gēn nǐ jiéhūn.
@@ -3106,7 +3107,7 @@
 7	婚	婚	NOUN	_	_	6	comp:obj	_	_
 8	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 1108
+# sent_id = chinese_beginner.A2.mSUD__168
 # structure = Subj. + 不 + 会 + Verb + Obj.
 # text = 今晚 我 不 会 在 外面 吃饭 。
 # pinyin = Jīnwǎn wǒ bù huì zài wàimiàn chīfàn.
@@ -3126,7 +3127,7 @@
 10	饭	饭	NOUN	_	_	9	comp:obj	_	_
 11	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 1109
+# sent_id = chinese_beginner.A2.mSUD__169
 # structure = Subj. + 想 + Verb (+ Obj.)
 # text = 你 想 去 吗？
 # pinyin = Nǐ xiǎng qù ma?
@@ -3140,7 +3141,7 @@
 4	吗	吗	PART	_	Mood=Inter	2	discourse	_	_
 5	？	？	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 1110
+# sent_id = chinese_beginner.A2.mSUD__170
 # structure = Subj. + 想 + Verb (+ Obj.)
 # text = 我 想 吃 面。
 # pinyin = Wǒ xiǎng  chī miàn.
@@ -3154,7 +3155,7 @@
 4	面	面	NOUN	_	_	3	comp:obj	_	_
 5	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 1111
+# sent_id = chinese_beginner.A2.mSUD__171
 # structure = Subj. + 想 + Verb (+ Obj.)
 # text = 你 想 喝 水 吗？
 # pinyin = Nǐ xiǎng hē shuǐ ma?
@@ -3169,7 +3170,7 @@
 5	吗	吗	PART	_	Mood=Inter	2	discourse	_	_
 6	？	？	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 1112
+# sent_id = chinese_beginner.A2.mSUD__172
 # structure = Subj. + 想 + Verb (+ Obj.)
 # text = 我们 想 看 电视。
 # pinyin = Wǒmen xiǎng kàn diànshì.
@@ -3185,7 +3186,7 @@
 6	视	视	NOUN	_	_	5	@m	_	_
 7	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 1113
+# sent_id = chinese_beginner.A2.mSUD__173
 # structure = Subj. + 想 + Verb (+ Obj.)
 # text = 他 想 买 一 个 大 房子。
 # pinyin = Tā xiǎng mǎi yī gè dà fángzi.
@@ -3203,7 +3204,7 @@
 8	子	子	NOUN	_	_	7	@m	_	_
 9	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 1114
+# sent_id = chinese_beginner.A2.mSUD__174
 # structure = Subj. + 不 + 想 + Verb + Obj.
 # text = 他们 不 想 去 酒吧。
 # pinyin = Tāmen bù xiǎng qù jiǔbā.
@@ -3220,7 +3221,7 @@
 7	吧	吧	NOUN	_	_	6	@m	_	_
 8	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 1115
+# sent_id = chinese_beginner.A2.mSUD__175
 # structure = Subj. + 不 + 想 + Verb + Obj.
 # text = 你 不 想 认识 这个 美女 吗？
 # pinyin = Nǐ  bù xiǎng rènshi zhège měinǚ ma?
@@ -3240,7 +3241,7 @@
 10	吗	吗	PART	_	Mood=Inter	3	discourse	_	_
 11	？	？	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 1117
+# sent_id = chinese_beginner.A2.mSUD__176
 # structure = Subj. + 不 + 想 + Verb + Obj.
 # text = 那个 地方 很 近，我 不 想 开车。
 # pinyin = Nàge dìfang hěn jìn, wǒ bù xiǎng kāichē.
@@ -3262,7 +3263,7 @@
 12	车	车	NOUN	_	_	11	comp:obj	_	_
 13	。	。	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 1238
+# sent_id = chinese_beginner.A2.mSUD__177
 # structure = Subj. + 到 + Place + Verb Phrase
 # text = 今年 春节 我 要 到 女朋友 家 见 她 的 父母 。
 # pinyin = Jīnnián Chūnjié wǒ yào dào nǚpéngyou jiā jiàn tā de fùmǔ.
@@ -3288,7 +3289,7 @@
 16	母	母	NOUN	_	_	15	@m	_	_
 17	。	。	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 1292
+# sent_id = chinese_beginner.A2.mSUD__178
 # structure = Subj. + Verb + 完 + 了
 # text = 我 看 完 了 。
 # pinyin = Wǒ kàn wán le.
@@ -3302,7 +3303,7 @@
 4	了	了	PART	_	_	2	discourse	_	_
 5	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 1293
+# sent_id = chinese_beginner.A2.mSUD__179
 # structure = Subj. + Verb + 完 + 了
 # text = 卖 完 了 。
 # pinyin = Mài wán le.
@@ -3315,7 +3316,7 @@
 3	了	了	PART	_	_	1	discourse	_	_
 4	。	。	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 1294
+# sent_id = chinese_beginner.A2.mSUD__180
 # structure = Subj. + Verb + 完 + 了
 # text = 我们 打扫 完 了 。
 # pinyin = Wǒmen dǎsǎo wán le.
@@ -3331,7 +3332,7 @@
 6	了	了	PART	_	_	3	discourse	_	_
 7	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 1295
+# sent_id = chinese_beginner.A2.mSUD__181
 # structure = Subj. + Verb + 完 + Obj. + 了
 # text = 我 做 完 作业 了 。
 # pinyin = Wǒ zuò wán zuòyè le.
@@ -3347,7 +3348,7 @@
 6	了	了	PART	_	_	2	discourse	_	Grammar_Target=Yes
 7	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 1296
+# sent_id = chinese_beginner.A2.mSUD__182
 # structure = Subj. + Verb + 完 + Obj. + 了
 # text = 老板 开 完 会 了 。
 # pinyin = Lǎobǎn kāi wán huì le.
@@ -3363,7 +3364,7 @@
 6	了	了	PART	_	_	3	discourse	_	Grammar_Target=Yes
 7	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 1297
+# sent_id = chinese_beginner.A2.mSUD__183
 # structure = Subj. + Verb + 完 + Obj. + 了
 # text = 我 看 完 这本书 了 。
 # pinyin = Wǒ kàn wán zhè běn shū le.
@@ -3380,7 +3381,7 @@
 7	了	了	PART	_	_	2	discourse	_	Grammar_Target=Yes
 8	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 1298
+# sent_id = chinese_beginner.A2.mSUD__184
 # structure = Subj. + Verb + 完 + Obj. + 了
 # text = 我们 学 完 这 篇 课文 了 。
 # pinyin = Wǒmen xué wán zhè piān kèwén le.
@@ -3399,7 +3400,7 @@
 9	了	了	PART	_	_	3	discourse	_	Grammar_Target=Yes
 10	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 1465
+# sent_id = chinese_beginner.A2.mSUD__185
 # structure = 快 + Adj. + 了
 # text = 天 快 黑 了。
 # pinyin = Tiān kuài hēi le.
@@ -3413,7 +3414,7 @@
 4	了	了	PART	_	_	3	discourse	_	Grammar_Target=Yes
 5	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 1467
+# sent_id = chinese_beginner.A2.mSUD__186
 # structure = 快 + Adj. + 了
 # text = 饭 快 凉 了。
 # pinyin = Fàn kuài liáng le.
@@ -3427,7 +3428,7 @@
 4	了	了	PART	_	_	3	discourse	_	Grammar_Target=Yes
 5	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 1468
+# sent_id = chinese_beginner.A2.mSUD__187
 # structure = 快 + Adj. + 了
 # text = 这些 脏 衣服 快 臭 了。
 # pinyin = Zhèxiē zāng yīfu kuài chòu le.
@@ -3445,7 +3446,7 @@
 8	了	了	PART	_	_	7	discourse	_	Grammar_Target=Yes
 9	。	。	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 1469
+# sent_id = chinese_beginner.A2.mSUD__188
 # structure = 快 + Adj. + 了
 # text = 不 能 再 喝 了，我 快 醉 了。
 # pinyin = Bù néng zài hē le, wǒ kuài zuì le.
@@ -3465,7 +3466,7 @@
 10	了	了	PART	_	_	9	discourse	_	Grammar_Target=Yes
 11	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 1470
+# sent_id = chinese_beginner.A2.mSUD__189
 # structure = Subj. + 要 + Verb / Adj. + 了
 # text = 我 要 生气 了！
 # pinyin = Wǒ yào shēngqì le!
@@ -3480,7 +3481,7 @@
 5	了	了	PART	_	_	2	discourse	_	Grammar_Target=Yes
 6	！	！	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 1471
+# sent_id = chinese_beginner.A2.mSUD__190
 # structure = Subj. + 要 + Verb / Adj. + 了
 # text = 他们 的 孩子 要 出生 了。
 # pinyin = Tāmen de háizi yào chūshēng le.
@@ -3499,7 +3500,7 @@
 9	了	了	PART	_	_	6	discourse	_	Grammar_Target=Yes
 10	。	。	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 1477
+# sent_id = chinese_beginner.A2.mSUD__191
 # structure = Topic (+ Subj.) + 什么 + 都 / 也 + Verb / Adj.
 # text = 工作 的 事情 老公 什么 都 跟 我 说。
 # pinyin = Gōngzuò de shìqing lǎogōng shénme dōu gēn wǒ shuō.
@@ -3522,7 +3523,7 @@
 13	说	说	VERB	_	_	0	root	_	_
 14	。	。	PUNCT	_	_	13	punct	_	_
 
-# sent_id = 1478
+# sent_id = chinese_beginner.A2.mSUD__192
 # structure = Topic (+ Subj.) + 什么 + 都 / 也 + Verb / Adj.
 # text = 妈妈 做 的 菜 我 什么 都 喜欢。
 # pinyin = Māma zuò de cài wǒ shénme dōu xǐhuan.
@@ -3543,7 +3544,7 @@
 11	欢	欢	VERB	_	_	10	@m	_	_
 12	。	。	PUNCT	_	_	10	punct	_	_
 
-# sent_id = 1480
+# sent_id = chinese_beginner.A2.mSUD__193
 # structure = 什么 + Noun + 都 + Verb
 # text = 我们 什么 果汁 都 喝。
 # pinyin = Wǒmen shénme guǒzhī dōu hē.
@@ -3561,7 +3562,7 @@
 8	喝	喝	VERB	_	_	0	root	_	_
 9	。	。	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 1493
+# sent_id = chinese_beginner.A2.mSUD__194
 # structure = 什么 + Noun + 都 / 也 + 没 (有) + Verb
 # text = 昨天 开会 的时候，她 什么 话 也 没 说。
 # level = A2
@@ -3584,7 +3585,7 @@
 15	说	说	VERB	_	_	0	root	_	_
 16	。	。	PUNCT	_	_	15	punct	_	_
 
-# sent_id = 1494
+# sent_id = chinese_beginner.A2.mSUD__195
 # structure = 什么 + Noun + 都 / 也 + 没 (有) + Verb
 # text = 你 在 家里 怎么 什么 事 都 不 做？
 # level = A2
@@ -3604,7 +3605,7 @@
 12	做	做	VERB	_	_	0	root	_	_
 13	？	？	PUNCT	_	_	12	punct	_	_
 
-# sent_id = 1495
+# sent_id = chinese_beginner.A2.mSUD__196
 # structure = 在 + Place
 # text = 在 中国
 # pinyin = zàiZhōngguó
@@ -3616,7 +3617,7 @@
 2	中	中	PROPN	_	_	1	comp:obj	_	_
 3	国	国	PROPN	_	_	2	@m	_	_
 
-# sent_id = 1510
+# sent_id = chinese_beginner.A2.mSUD__197
 # structure = 别 + Verb / [Verb Phrase] + 了
 # text = 别 说 了 ， 我 不 想 听 。
 # pinyin = Bié shuō le, wǒ bù xiǎng tīng.
@@ -3634,7 +3635,7 @@
 8	听	听	VERB	_	_	7	comp:aux	_	_
 9	。	。	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 1511
+# sent_id = chinese_beginner.A2.mSUD__198
 # structure = 别 + Verb / [Verb Phrase] + 了
 # text = 别 问 了 ， 我 不 想 说 。
 # pinyin = Bié wèn le, wǒ bù xiǎng shuō.
@@ -3652,7 +3653,7 @@
 8	说	说	VERB	_	_	7	comp:aux	_	_
 9	。	。	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 1512
+# sent_id = chinese_beginner.A2.mSUD__199
 # structure = 别 + Verb / [Verb Phrase] + 了
 # text = 别 做 了 ，明天 做 吧 。
 # pinyin = Bié zuò le, míngtiān zuò ba.
@@ -3670,7 +3671,7 @@
 8	吧	吧	PART	_	_	7	discourse	_	_
 9	。	。	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 1513
+# sent_id = chinese_beginner.A2.mSUD__200
 # structure = 别 + Verb / [Verb Phrase] + 了
 # text = 别 看 了，睡觉 ！
 # pinyin = Bié kàn le, shuìjiào!
@@ -3686,7 +3687,7 @@
 6	觉	觉	NOUN	_	_	5	comp:obj	_	_
 7	！	！	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 1514
+# sent_id = chinese_beginner.A2.mSUD__201
 # structure = 别 + Verb / [Verb Phrase] + 了
 # text = 别 哭 了 ！
 # pinyin = Bié kū le!
@@ -3699,7 +3700,7 @@
 3	了	了	PART	_	_	1	discourse	_	Grammar_Target=Yes
 4	！	！	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 1515
+# sent_id = chinese_beginner.A2.mSUD__202
 # structure = 别 + Verb / [Verb Phrase] + 了
 # text = 别 笑 了 ，别人 都 在 看 你 。
 # pinyin = Bié xiào le, biérén dōu zài kàn nǐ.
@@ -3719,7 +3720,7 @@
 10	你	你	PRON	_	Person=2	9	comp:obj	_	_
 11	。	。	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 1516
+# sent_id = chinese_beginner.A2.mSUD__203
 # structure = 别 + Verb / [Verb Phrase] + 了
 # text = 别 吃 了 ，我们 要 迟到 了 。
 # pinyin = Bié chī le, wǒmen yào chídào le.
@@ -3739,7 +3740,7 @@
 10	了	了	PART	_	_	7	discourse	_	_
 11	。	。	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 1517
+# sent_id = chinese_beginner.A2.mSUD__204
 # structure = 别 + Verb / [Verb Phrase] + 了
 # text = 别 玩 了 ，去 写 作业 。
 # pinyin = Bié wán le, qù xiě zuòyè.
@@ -3757,7 +3758,7 @@
 8	业	业	NOUN	_	_	7	@m	_	_
 9	。	。	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 1518
+# sent_id = chinese_beginner.A2.mSUD__205
 # structure = 别 + Verb / [Verb Phrase] + 了
 # text = 别 喝 了 ，你 已经 醉 了 。
 # pinyin = Bié hē le, nǐ yǐjīng zuì le.
@@ -3776,7 +3777,7 @@
 9	了	了	PART	_	_	8	discourse	_	_
 10	。	。	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 640
+# sent_id = chinese_beginner.A2.mSUD__206
 # structure = A 比 B + 更 + Adj.
 # text = 北京 的 房子  比 上海 更 贵。
 # pinyin = Běijīng de fángzi  bǐ Shànghǎi gèng guì.
@@ -3796,7 +3797,7 @@
 10	贵	贵	ADJ	_	_	0	root	_	_
 11	。	。	PUNCT	_	_	10	punct	_	_
 
-# sent_id = 641
+# sent_id = chinese_beginner.A2.mSUD__207
 # structure = A 比 B + 更 + Adj.
 # text = 春节  比中秋节更 热闹。
 # pinyin = Chūnjié  bǐ Zhōngqiūjié gèng  rènao.
@@ -3815,7 +3816,7 @@
 9	闹	闹	ADJ	_	_	8	@m	_	_
 10	。	。	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 642
+# sent_id = chinese_beginner.A2.mSUD__208
 # structure = A 比 B + 更 + Adj.
 # text = 汉字  比 声调 更 难。
 # pinyin = Hànzì  bǐ shēngdiào gèng nán.
@@ -3832,7 +3833,7 @@
 7	难	难	ADJ	_	_	0	root	_	_
 8	。	。	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 643
+# sent_id = chinese_beginner.A2.mSUD__209
 # structure = A 比 B + 更 + Adj.
 # text = 他 现在 的 女朋友  比 以前 的 更 漂亮。
 # pinyin = Tā xiànzài de nǚpéngyou  bǐ yǐqián de gèng piàoliang.
@@ -3856,7 +3857,7 @@
 14	亮	亮	ADJ	_	_	13	@m	_	_
 15	。	。	PUNCT	_	_	13	punct	_	_
 
-# sent_id = 644
+# sent_id = chinese_beginner.A2.mSUD__210
 # structure = A 比 B + 更 + Adj.
 # text = 中国 的 高铁  比 飞机 更 方便。
 # pinyin = Zhōngguó de gāotiě   bǐ fēijī gèng fāngbiàn.
@@ -3877,7 +3878,7 @@
 11	便	便	NOUN	_	_	10	@m	_	_
 12	。	。	PUNCT	_	_	10	punct	_	_
 
-# sent_id = 830
+# sent_id = chinese_beginner.A2.mSUD__211
 # structure = (Subj.) + Verb / Adj. + 的 时候, ....
 # text = 上课 的时候 不要 吃 东西。
 # pinyin = Shàngkè de shíhou bùyào chī dōngxi.
@@ -3897,7 +3898,7 @@
 10	西	西	NOUN	_	_	9	@m	_	_
 11	。	。	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 831
+# sent_id = chinese_beginner.A2.mSUD__212
 # structure = (Subj.) + Verb / Adj. + 的 时候, ....
 # text = 老板 工作 的时候 喜欢 喝 咖啡。
 # pinyin = Lǎobǎn gōngzuò de shíhou xǐhuan hē kāfēi.
@@ -3919,7 +3920,7 @@
 12	啡	啡	NOUN	_	_	11	@m	_	_
 13	。	。	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 834
+# sent_id = chinese_beginner.A2.mSUD__213
 # structure = (Subj.) + Verb / Adj. + 的 时候, ....
 # text = 开会 的时候 不要 聊天。
 # pinyin = Kāihuì de shíhou bùyào liáotiān.
@@ -3938,7 +3939,7 @@
 9	天	天	NOUN	_	_	8	comp:obj	_	_
 10	。	。	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 835
+# sent_id = chinese_beginner.A2.mSUD__214
 # structure = (Subj.) + Verb / Adj. + 的 时候, ....
 # text = 吃 东西 的时候 不要 说话。
 # pinyin = Chī dōngxi de shíhou bùyào shuōhuà.
@@ -3958,7 +3959,7 @@
 10	话	话	NOUN	_	_	9	comp:obj	_	_
 11	。	。	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 836
+# sent_id = chinese_beginner.A2.mSUD__215
 # structure = (Subj.) + Verb / Adj. + 的 时候, ....
 # text = 你 开车 的时候 会 打 电话 吗？
 # pinyin = Nǐ kāichē de shíhou huì dǎ diànhuà ma?
@@ -3979,7 +3980,7 @@
 11	吗	吗	PART	_	Mood=Inter	7	discourse	_	_
 12	？	？	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 837
+# sent_id = chinese_beginner.A2.mSUD__216
 # structure = (Subj.) + Verb / Adj. + 的 时候, ....
 # text = 走路 的时候 不要 玩手机。
 # pinyin = Zǒulù de shíhou bùyào wán shǒujī.
@@ -3999,7 +4000,7 @@
 10	机	机	NOUN	_	_	9	@m	_	_
 11	。	。	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 856
+# sent_id = chinese_beginner.A2.mSUD__217
 # structure = 以后 + Subj. + Verb + Obj.
 # text = 他们 以后 会 结婚 吗？
 # pinyin = Tāmen yǐhòu huì jiéhūn ma?
@@ -4017,7 +4018,7 @@
 8	吗	吗	PART	_	Mood=Inter	5	discourse	_	_
 9	？	？	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 857
+# sent_id = chinese_beginner.A2.mSUD__218
 # structure = 以后 + Subj. + Verb + Obj.
 # text = 你 以后 不 要 跟 他 见面 了。
 # pinyin = Nǐ yǐhòu bùyào gēn tā jiànmiàn le.
@@ -4037,7 +4038,7 @@
 10	了	了	PART	_	_	5	discourse	_	_
 11	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 858
+# sent_id = chinese_beginner.A2.mSUD__219
 # structure = Subj. + 以后 + Verb + Obj.
 # text = 以后 你们 会  想我 吗？
 # level = A2
@@ -4053,7 +4054,7 @@
 8	吗	吗	PART	_	Mood=Inter	5	discourse	_	_
 9	？	？	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 859
+# sent_id = chinese_beginner.A2.mSUD__220
 # structure = Subj. + 以后 + Verb + Obj.
 # text = 以后 你 想 来 中国 吗？
 # level = A2
@@ -4069,7 +4070,7 @@
 8	吗	吗	PART	_	Mood=Inter	4	discourse	_	_
 9	？	？	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 860
+# sent_id = chinese_beginner.A2.mSUD__221
 # structure = Subj. + 以后 + Verb + Obj.
 # text = 我 以后 不 喝酒 了。
 # level = A2
@@ -4084,7 +4085,7 @@
 7	了	了	PART	_	_	5	discourse	_	_
 8	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 861
+# sent_id = chinese_beginner.A2.mSUD__222
 # structure = Subj. + 以后 + Verb + Obj.
 # text = 我们 以后 不 在 这里 工作 了。
 # level = A2
@@ -4103,7 +4104,7 @@
 11	了	了	PART	_	_	9	discourse	_	_
 12	。	。	PUNCT	_	_	9	punct	_	_
 
-# sent_id = 881
+# sent_id = chinese_beginner.A2.mSUD__223
 # structure = Number + (Number + 1)
 # text = 这 几 本 书 花 了 我 两 三 百。
 # pinyin = Zhè jǐ běn shū huā le wǒ liǎng sān bǎi.
@@ -4123,7 +4124,7 @@
 10	百	百	NUM	_	NumType=Card	9	flat	_	Grammar_Target=Yes
 11	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 882
+# sent_id = chinese_beginner.A2.mSUD__224
 # structure = x 点 零 y 分
 # text = 两 点 零 九分
 # pinyin = liǎng diǎn líng jiǔ fēn
@@ -4137,7 +4138,7 @@
 4	九	九	NUM	_	NumType=Card	3	flat	_	_
 5	分	分	NOUN	_	_	2	flat	_	Grammar_Target=Yes
 
-# sent_id = 883
+# sent_id = chinese_beginner.A2.mSUD__225
 # structure = x 点 零 y 分
 # text = 三 点 零 八 分
 # pinyin = sān diǎn líng bā fēn
@@ -4151,7 +4152,7 @@
 4	八	八	NUM	_	NumType=Card	3	flat	_	_
 5	分	分	NOUN	_	_	2	flat	_	Grammar_Target=Yes
 
-# sent_id = 884
+# sent_id = chinese_beginner.A2.mSUD__226
 # structure = x 点 零 y 分
 # text = 五 点 零 三 分
 # pinyin = wǔ diǎn líng sān fēn
@@ -4165,7 +4166,7 @@
 4	三	三	NUM	_	NumType=Card	3	flat	_	_
 5	分	分	NOUN	_	_	2	flat	_	Grammar_Target=Yes
 
-# sent_id = 885
+# sent_id = chinese_beginner.A2.mSUD__227
 # structure = x 点 零 y 分
 # text = 七 点 零 一 分
 # pinyin = qī diǎn líng yī fēn
@@ -4179,7 +4180,7 @@
 4	一	一	NUM	_	NumType=Card	3	flat	_	_
 5	分	分	NOUN	_	_	0	root	_	Grammar_Target=Yes
 
-# sent_id = 886
+# sent_id = chinese_beginner.A2.mSUD__228
 # structure = x 点 零 y 分
 # text = 八 点 零 五 分
 # pinyin = bā diǎn líng wǔ fēn
@@ -4193,7 +4194,7 @@
 4	五	五	NUM	_	NumType=Card	3	flat	_	_
 5	分	分	NOUN	_	_	2	flat	_	Grammar_Target=Yes
 
-# sent_id = 887
+# sent_id = chinese_beginner.A2.mSUD__229
 # structure = x 点 y 分
 # text = 一 点 四 十 分
 # pinyin = yī diǎn sìshí fēn
@@ -4207,7 +4208,7 @@
 4	十	十	NUM	_	NumType=Card	3	flat	_	_
 5	分	分	NOUN	_	_	2	flat	_	Grammar_Target=Yes
 
-# sent_id = 888
+# sent_id = chinese_beginner.A2.mSUD__230
 # structure = x 点 y 分
 # text = 两 点 十 分
 # pinyin = liǎng diǎn shí fēn
@@ -4220,7 +4221,7 @@
 3	十	十	NUM	_	NumType=Card	4	mod	_	_
 4	分	分	NOUN	_	_	2	flat	_	Grammar_Target=Yes
 
-# sent_id = 889
+# sent_id = chinese_beginner.A2.mSUD__231
 # structure = x 点 y 分
 # text = 三 点 二 十 分
 # pinyin = sān diǎn èrshí fēn
@@ -4234,7 +4235,7 @@
 4	十	十	NUM	_	NumType=Card	3	flat	_	_
 5	分	分	NOUN	_	_	2	flat	_	Grammar_Target=Yes
 
-# sent_id = 890
+# sent_id = chinese_beginner.A2.mSUD__232
 # structure = x 点 y 分
 # text = 七 点 十 五 分
 # pinyin = qī diǎn shíwǔ fēn
@@ -4248,7 +4249,7 @@
 4	五	五	NUM	_	NumType=Card	3	flat	_	_
 5	分	分	NOUN	_	_	2	flat	_	Grammar_Target=Yes
 
-# sent_id = 891
+# sent_id = chinese_beginner.A2.mSUD__233
 # structure = x 点 y 分
 # text = 九 点 五 十分
 # pinyin = jiǔ diǎn wǔshí fēn
@@ -4262,7 +4263,7 @@
 4	十	十	NUM	_	NumType=Card	3	flat	_	_
 5	分	分	NOUN	_	_	2	flat	_	Grammar_Target=Yes
 
-# sent_id = 892
+# sent_id = chinese_beginner.A2.mSUD__234
 # structure = x 点 y 刻
 # text = 九 点 一 刻
 # pinyin = jiǔ diǎn yī kè
@@ -4275,7 +4276,7 @@
 3	一	一	NUM	_	_	4	mod	_	_
 4	刻	刻	NOUN	_	_	0	root	_	Grammar_Target=Yes
 
-# sent_id = 893
+# sent_id = chinese_beginner.A2.mSUD__235
 # structure = x 点 y 刻
 # text = 十 二 点 一 刻
 # pinyin = shí'èr diǎn yī kè
@@ -4289,7 +4290,7 @@
 4	一	一	NOUN	_	_	5	mod	_	_
 5	刻	刻	NOUN	_	_	3	flat	_	Grammar_Target=Yes
 
-# sent_id = 906
+# sent_id = chinese_beginner.A2.mSUD__236
 # structure = 几 + Measure Word + Noun
 # text = 我 每 天 都 要 喝 几 杯 咖啡。
 # pinyin = Wǒ měi tiān dōu yào hē jǐ bēi kāfēi.
@@ -4309,7 +4310,7 @@
 10	啡	啡	NOUN	_	_	9	fixed@m	_	_
 11	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 907
+# sent_id = chinese_beginner.A2.mSUD__237
 # structure = 几 + Measure Word + Noun
 # text = 老板 今天 开 了 几 个 重要 的 会。
 # pinyin = Lǎobǎn jīntiān kāi le jǐ gè zhòngyào de huì.
@@ -4331,7 +4332,7 @@
 12	会	会	NOUN	_	_	5	comp:obj	_	_
 13	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 908
+# sent_id = chinese_beginner.A2.mSUD__238
 # structure = 几 + 十 + Measure Word + Noun
 # text = 他 只 想 学 几 十 个 汉字。"Dozens" is the closest we can get in natural English to the Chinese, which literally means "tens."
 # pinyin = Tā zhǐ xiǎng xué jǐ shí gè Hànzì.
@@ -4350,7 +4351,7 @@
 9	字	字	NOUN	_	_	8	@m	_	_
 10	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 909
+# sent_id = chinese_beginner.A2.mSUD__239
 # structure = 几 + 十 + Measure Word + Noun
 # text = 我们 公司 有 几 十 个 员工。
 # pinyin = Wǒmen gōngsī yǒu jǐ shí gè yuángōng.
@@ -4370,7 +4371,7 @@
 10	工	工	NOUN	_	_	9	@m	_	_
 11	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 910
+# sent_id = chinese_beginner.A2.mSUD__240
 # structure = 几 + 十 + Measure Word + Noun
 # text = 他 写 过 几 十 本 书，我 都 喜欢。
 # pinyin = Tā xiě guo jǐ shí běn shū, wǒ dōu xǐhuan.
@@ -4392,7 +4393,7 @@
 12	欢	欢	VERB	_	_	11	@m	_	_
 13	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 911
+# sent_id = chinese_beginner.A2.mSUD__241
 # structure = 几 + 十 + Measure Word + Noun
 # text = 这个 年轻的 演员 演 了 几 十 部 电影。我都喜欢。
 # pinyin = Zhège niánqīng de yǎnyuán yǎn le jǐ shí bù diànyǐng. Wǒ dōu xǐhuan.
@@ -4421,7 +4422,7 @@
 19	欢	欢	VERB	_	_	18	@m	_	_
 20	。	。	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 912
+# sent_id = chinese_beginner.A2.mSUD__242
 # structure = 几 + 十 + Measure Word + Noun
 # text = 老板 在 国外 有 几 十 套 房子。
 # pinyin = Lǎobǎn zài guówài yǒu jǐ shí tào fángzi.
@@ -4442,7 +4443,7 @@
 11	子	子	NOUN	_	_	10	@m	_	_
 12	。	。	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 913
+# sent_id = chinese_beginner.A2.mSUD__243
 # structure = 几 + 百 / 千 / 万 + Measure Word + Noun
 # text = 妈妈 每 个 月 都 给 我 几 百 块 钱。
 # pinyin = Māma měi gè yuè dōu gěi wǒ jǐ bǎi kuài qián.
@@ -4464,7 +4465,7 @@
 12	钱	钱	NOUN	_	_	7	comp:obj	_	_
 13	。	。	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 914
+# sent_id = chinese_beginner.A2.mSUD__244
 # structure = 几 + 百 / 千 / 万 + Measure Word + Noun
 # text = 这 个 月 我们 卖 了 几 千 本 书。
 # pinyin = Zhège yuè wǒmen mài le jǐ qiān běn shū.
@@ -4485,7 +4486,7 @@
 11	书	书	NOUN	_	_	6	comp:obj	_	_
 12	。	。	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 915
+# sent_id = chinese_beginner.A2.mSUD__245
 # structure = 几 + 百 / 千 / 万 + Measure Word + Noun
 # text = 几 百 家 外国 公司 参加 了 这个 大会。
 # pinyin = Jǐ bǎi jiā wàiguó gōngsī cānjiā le zhège dàhuì.
@@ -4509,7 +4510,7 @@
 14	会	会	NOUN	_	_	8	comp:obj	_	_
 15	。	。	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 916
+# sent_id = chinese_beginner.A2.mSUD__246
 # structure = 几 + 百 / 千 / 万 + Measure Word + Noun
 # text = 这 篇 文章 有 几 万 个 字，太 长 了。
 # pinyin = Zhè piān wénzhāng yǒu jǐ wàn gè zì, tài cháng le.
@@ -4532,7 +4533,7 @@
 13	了	了	PART	_	_	12	discourse	_	_
 14	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 917
+# sent_id = chinese_beginner.A2.mSUD__247
 # structure = 几 + 百 / 千 / 万 + Measure Word + Noun
 # text = 我 认识 一 个 朋友，她 有  几 百 双 鞋。
 # pinyin = Wǒ rènshi yī gè péngyou, tā yǒu jǐ bǎi shuāng xié.
@@ -4556,7 +4557,7 @@
 14	鞋	鞋	NOUN	_	_	10	comp:obj	_	_
 15	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 918
+# sent_id = chinese_beginner.A2.mSUD__248
 # structure = 好几 + Measure Word + Noun
 # text = 他 读 了 好几 遍 。
 # pinyin = Tā dú le hǎojǐ biàn.
@@ -4572,7 +4573,7 @@
 6	遍	遍	NOUN	_	_	2	comp:obj	_	_
 7	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 953
+# sent_id = chinese_beginner.A2.mSUD__249
 # structure = Subj. + Verb + 了 + [Number + Measure Word] + Obj.
 # text = 我 喝 了 两 杯 咖啡 。
 # pinyin = Wǒ hē le liǎng bēi kāfēi.
@@ -4589,7 +4590,7 @@
 7	啡	啡	NOUN	_	_	6	@m	_	_
 8	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 957
+# sent_id = chinese_beginner.A2.mSUD__250
 # structure = Subj. + 来 / 去 + Place + Verb / [Verb Phrase] + 了
 # text = 我们 上周 去 北京 开会 了 。
 # pinyin = Wǒmen shàng zhōu qù Běijīng kāihuì le.
@@ -4609,7 +4610,7 @@
 10	了	了	PART	_	_	5	discourse	_	Grammar_Target=Yes
 11	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 958
+# sent_id = chinese_beginner.A2.mSUD__251
 # structure = Subj. + 来 / 去 + Place + Verb / [Verb Phrase] + 了
 # text = 我 和 朋友 去 商场 买 衣服 了 。
 # pinyin = Wǒ hé péngyou qù shāngchǎng mǎi yīfu le.
@@ -4630,7 +4631,7 @@
 11	了	了	PART	_	_	5	discourse	_	Grammar_Target=Yes
 12	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 959
+# sent_id = chinese_beginner.A2.mSUD__252
 # structure = Subj. + Verb + 过 + Obj.
 # text = 你 学 过 中文 吗？
 # pinyin = Nǐ xué guo Zhōngwén ma?
@@ -4646,7 +4647,7 @@
 6	吗	吗	PART	_	Mood=Inter	2	discourse	_	_
 7	？	？	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 960
+# sent_id = chinese_beginner.A2.mSUD__253
 # structure = Subj. + Verb + 过 + Obj.
 # text = 你 见 过 那 个 人 吗？
 # pinyin = Nǐ jiàn guo nàge rén ma?
@@ -4663,7 +4664,7 @@
 7	吗	吗	PART	_	Mood=Inter	2	discourse	_	_
 8	？	？	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 961
+# sent_id = chinese_beginner.A2.mSUD__254
 # structure = Subj. + Verb + 过 + Obj.
 # text = 我们 来 过 这 个 地方。
 # pinyin = Wǒmen lái guo zhège dìfang.
@@ -4681,7 +4682,7 @@
 8	方	方	NOUN	_	_	7	@m	_	_
 9	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 962
+# sent_id = chinese_beginner.A2.mSUD__255
 # structure = Subj. + Verb + 过 + Obj.
 # text = 我 也 吃 过 日本菜。
 # pinyin = Wǒ yě chī guo Rìběn cài.
@@ -4698,7 +4699,7 @@
 7	菜	菜	NOUN	_	_	3	comp:obj	_	_
 8	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 963
+# sent_id = chinese_beginner.A2.mSUD__256
 # structure = Subj. + Verb + 过 + Obj.
 # text = 你 看 过 这 个 电影 吗 ？
 # pinyin = Nǐ kàn guo zhège diànyǐng ma?
@@ -4716,7 +4717,7 @@
 8	吗	吗	PART	_	Mood=Inter	2	discourse	_	_
 9	？	？	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 964
+# sent_id = chinese_beginner.A2.mSUD__257
 # structure = Subj. + 没 + Verb + 过 + Obj.
 # text = 我 没 想 过 这 个 问题。
 # pinyin = Wǒ méi xiǎng  guo zhège wèntí.
@@ -4734,7 +4735,7 @@
 8	题	题	NOUN	_	_	7	@m	_	_
 9	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 965
+# sent_id = chinese_beginner.A2.mSUD__258
 # structure = Subj. + 没 + Verb + 过 + Obj.
 # text = 我 没 学 过 这 个 词 。
 # pinyin = Wǒ méi xué guo zhège cí.
@@ -4751,7 +4752,7 @@
 7	词	词	NOUN	_	_	3	comp:obj	_	_
 8	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 966
+# sent_id = chinese_beginner.A2.mSUD__259
 # structure = Subj. + 没 + Verb + 过 + Obj.
 # text = 妈妈 没 买 过 很 贵 的 衣服。
 # pinyin = Māma méi mǎi guo  hěn guì de yīfu.
@@ -4771,7 +4772,7 @@
 10	服	服	NOUN	_	_	9	@m	_	_
 11	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 967
+# sent_id = chinese_beginner.A2.mSUD__260
 # structure = Subj. + 没 + Verb + 过 + Obj.
 # text = 我们 都 没 坐 过 飞机。
 # pinyin = Wǒmen dōu méi zuò guo fēijī.
@@ -4789,7 +4790,7 @@
 8	机	机	NOUN	_	_	7	@m	_	_
 9	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 968
+# sent_id = chinese_beginner.A2.mSUD__261
 # structure = Subj. + 没 + Verb + 过 + Obj.
 # text = 你们 没 见 过 美女 吗？
 # pinyin = Nǐmen méi jiàn guo měinǚ ma?
@@ -4807,7 +4808,7 @@
 8	吗	吗	PART	_	Mood=Inter	4	discourse	_	_
 9	？	？	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 969
+# sent_id = chinese_beginner.A2.mSUD__262
 # structure = 不 + [Verb Phrase] + 了
 # text = 我 不 想 吃 了 。
 # pinyin = Wǒ bù xiǎng chī le.
@@ -4822,7 +4823,7 @@
 5	了	了	PART	_	_	3	discourse	_	Grammar_Target=Yes
 6	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 970
+# sent_id = chinese_beginner.A2.mSUD__263
 # structure = 不 + [Verb Phrase] + 了
 # text = 你 不 喜欢 我 了 吗？
 # pinyin = Nǐ bù xǐhuan wǒ le ma?
@@ -4839,7 +4840,7 @@
 7	吗	吗	PART	_	Mood=Inter	3	discourse	_	_
 8	？	？	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 971
+# sent_id = chinese_beginner.A2.mSUD__264
 # structure = 不 + [Verb Phrase] + 了
 # text = 你们 不 能 打 了 。
 # pinyin = Nǐmen bù néng dǎ le.
@@ -4855,7 +4856,7 @@
 6	了	了	PART	_	_	4	discourse	_	Grammar_Target=Yes
 7	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 972
+# sent_id = chinese_beginner.A2.mSUD__265
 # structure = 没(有) + [Noun Phrase] + 了
 # text = 没有 纸 了 。in other words, "we're out of paper"
 # pinyin = Méiyǒu zhǐ le.
@@ -4869,7 +4870,7 @@
 4	了	了	PART	_	_	2	discourse	_	Grammar_Target=Yes
 5	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 973
+# sent_id = chinese_beginner.A2.mSUD__266
 # structure = 没(有) + [Noun Phrase] + 了
 # text = 手机 没 电 了 。
 # pinyin = Shǒujī méi diàn le.
@@ -4884,7 +4885,7 @@
 5	了	了	PART	_	_	3	discourse	_	Grammar_Target=Yes
 6	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 974
+# sent_id = chinese_beginner.A2.mSUD__267
 # structure = 没(有) + [Noun Phrase] + 了
 # text = 他 没有 家 了。
 # pinyin = Tā méiyǒu jiā le.
@@ -4899,7 +4900,7 @@
 5	了	了	PART	_	_	3	discourse	_	Grammar_Target=Yes
 6	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 975
+# sent_id = chinese_beginner.A2.mSUD__268
 # structure = 已经 + 不 + [Verb Phrase] + 了
 # text = 我 已经 不 住 这里 了 。
 # pinyin = Wǒ yǐjīng bù zhù zhèlǐ le.
@@ -4917,7 +4918,7 @@
 8	了	了	PART	_	_	5	discourse	_	Grammar_Target=Yes
 9	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 976
+# sent_id = chinese_beginner.A2.mSUD__269
 # structure = 已经 + 不 + [Verb Phrase] + 了
 # text = 他 已经 不 在 这儿 工作 了 。
 # pinyin = Tā yǐjīng bù zài zhèr gōngzuò le.
@@ -4937,7 +4938,7 @@
 10	了	了	PART	_	_	8	discourse	_	Grammar_Target=Yes
 11	。	。	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 977
+# sent_id = chinese_beginner.A2.mSUD__270
 # structure = 已经 + 不 + [Verb Phrase] + 了
 # text = 他们 已经 不 在 一起 了 。
 # pinyin = Tāmen yǐjīng bù zài yīqǐ le.
@@ -4956,7 +4957,7 @@
 9	了	了	PART	_	_	6	discourse	_	Grammar_Target=Yes
 10	。	。	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 1009
+# sent_id = chinese_beginner.A2.mSUD__271
 # structure = Statement + 吧
 # text = 你们 早 点 来 吧 。
 # pinyin = Nǐmen zǎo diǎn lái ba.
@@ -4972,7 +4973,7 @@
 6	吧	吧	PART	_	_	5	discourse	_	Grammar_Target=Yes
 7	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 1010
+# sent_id = chinese_beginner.A2.mSUD__272
 # structure = Statement + 吧
 # text = 快 点 吧 ， 要 迟到 了。
 # pinyin = Kuài diǎn ba, yào chídào le.
@@ -4990,7 +4991,7 @@
 8	了	了	PART	_	_	5	discourse	_	_
 9	。	。	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 1011
+# sent_id = chinese_beginner.A2.mSUD__273
 # structure = Statement + 吧
 # text = 太 贵 了 吧 ， 我 不 买 了。
 # pinyin = Tài guì le ba, wǒ bù mǎi le.
@@ -5009,7 +5010,7 @@
 9	了	了	PART	_	_	8	discourse	_	_
 10	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 1012
+# sent_id = chinese_beginner.A2.mSUD__274
 # structure = Statement + 吧
 # text = 那 个 地方 太 远 了 吧，我 不 想 去。
 # pinyin = Nàge dìfang tài yuǎn le ba，wǒ bù xiǎng qù.
@@ -5032,7 +5033,7 @@
 13	去	去	VERB	_	_	12	comp:aux	_	_
 14	。	。	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 1013
+# sent_id = chinese_beginner.A2.mSUD__275
 # structure = 的 + Noun
 # text = 我 的 手机
 # pinyin = wǒ de shǒujī
@@ -5045,7 +5046,7 @@
 3	手	手	NOUN	_	_	0	root	_	_
 4	机	机	NOUN	_	_	3	@m	_	_
 
-# sent_id = 1014
+# sent_id = chinese_beginner.A2.mSUD__276
 # structure = 的 + Noun
 # text = 我们 的 老师
 # pinyin = wǒmen de lǎoshī
@@ -5059,7 +5060,7 @@
 4	老	老	NOUN	_	_	0	root	_	_
 5	师	师	NOUN	_	_	4	@m	_	_
 
-# sent_id = 1015
+# sent_id = chinese_beginner.A2.mSUD__277
 # structure = 的 + Noun
 # text = 漂亮 的 衣服
 # pinyin = piàoliang de yīfu
@@ -5073,7 +5074,7 @@
 4	衣	衣	NOUN	_	_	0	root	_	_
 5	服	服	NOUN	_	_	4	@m	_	_
 
-# sent_id = 1016
+# sent_id = chinese_beginner.A2.mSUD__278
 # structure = 的 + Noun
 # text = 热闹 的 酒吧
 # pinyin = rènao de jiǔbā
@@ -5087,7 +5088,7 @@
 4	酒	酒	NOUN	_	_	0	root	_	_
 5	吧	吧	NOUN	_	_	4	@m	_	_
 
-# sent_id = 1017
+# sent_id = chinese_beginner.A2.mSUD__279
 # structure = 的 + Noun
 # text = 我 女朋友 的 公司
 # pinyin = wǒ nǚpéngyou de gōngsī
@@ -5103,7 +5104,7 @@
 6	公	公	NOUN	_	_	0	root	_	_
 7	司	司	NOUN	_	_	6	@m	_	_
 
-# sent_id = 1018
+# sent_id = chinese_beginner.A2.mSUD__280
 # structure = Verb + 得
 # text = 做 得 很 好
 # pinyin = zuò de hěn hǎo
@@ -5116,7 +5117,7 @@
 3	很	很	ADV	_	_	4	mod	_	_
 4	好	好	ADJ	_	_	2	comp:obj	_	_
 
-# sent_id = 1019
+# sent_id = chinese_beginner.A2.mSUD__281
 # structure = Verb + 得
 # text = 说 得 太 快
 # pinyin = shuō de tài kuài
@@ -5129,7 +5130,7 @@
 3	太	太	ADV	_	_	4	mod	_	_
 4	快	快	ADJ	_	_	2	comp:obj	_	_
 
-# sent_id = 1036
+# sent_id = chinese_beginner.A2.mSUD__282
 # structure = Verb + 过 + Obj. + 了
 # text = 我 给 他 打 过 电话 了。
 # pinyin = Wǒ gěi tā dǎ guo diànhuà le.
@@ -5147,7 +5148,7 @@
 8	了	了	PART	_	_	4	discourse	_	Grammar_Target=Yes
 9	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 1037
+# sent_id = chinese_beginner.A2.mSUD__283
 # structure = Verb + 过 + Obj. + 了
 # text = 客户 看 过 合同 了 吗？
 # pinyin = Kèhù kàn guo  hétong  le ma?
@@ -5165,7 +5166,7 @@
 8	吗	吗	PART	_	Mood=Inter	3	discourse	_	_
 9	？	？	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 1038
+# sent_id = chinese_beginner.A2.mSUD__284
 # structure = Noun 1 + 比 + Noun 2 + Adj.
 # text = 小李 比 小张 高 。
 # pinyin = Xiǎo Lǐ bǐ Xiǎo Zhāng gāo .
@@ -5181,7 +5182,7 @@
 6	高	高	ADJ	_	_	0	root	_	_
 7	。	。	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 1039
+# sent_id = chinese_beginner.A2.mSUD__285
 # structure = Noun 1 + 比 + Noun 2 + 更 + Adj.
 # text = 小李 比 小张 更 高 。
 # pinyin = Xiǎo Lǐ bǐ Xiǎo Zhāng gèng gāo .
@@ -5198,7 +5199,7 @@
 7	高	高	ADJ	_	_	0	root	_	_
 8	。	。	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 1050
+# sent_id = chinese_beginner.A2.mSUD__286
 # structure = Noun 1 + 没有 + Noun 2 + Adj.
 # text = 小张 没有 小李 高 。
 # pinyin = Xiǎo Zhāng méiyǒu Xiǎo Lǐ gāo.
@@ -5215,7 +5216,7 @@
 7	高	高	ADJ	_	_	4	comp:obj	_	_
 8	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 1056
+# sent_id = chinese_beginner.A2.mSUD__287
 # structure = 来 / 去 + Place
 # text = 你们 想 去 Starbucks 还是 Costa？
 # pinyin = Nǐmen xiǎng qù Starbucks háishì Costa?
@@ -5245,7 +5246,7 @@
 20	a	a	PROPN	_	_	19	flat:foreign@m	_	_
 21	？	？	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 1057
+# sent_id = chinese_beginner.A2.mSUD__288
 # structure = 来 / 去 + Place
 # text = 周末 我 喜欢 去 朋友 家。
 # pinyin = Zhōumò wǒ xǐhuan qù péngyou jiā.
@@ -5264,7 +5265,7 @@
 9	家	家	NOUN	_	_	6	comp:obj	_	_
 10	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 1058
+# sent_id = chinese_beginner.A2.mSUD__289
 # structure = 来 / 去 + Place
 # text = 爸爸 明天 去 北京 出差。
 # pinyin = Bàba míngtiān qù Běijīng chūchāi.
@@ -5283,7 +5284,7 @@
 9	差	差	NOUN	_	_	8	comp:obj	_	_
 10	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 1059
+# sent_id = chinese_beginner.A2.mSUD__290
 # structure = 来 / 去 + Place
 # text = 我 今天 不 上班，你们 可以 来 我 家 吃饭 。
 # pinyin = Wǒ jīntiān bù shàngbān, nǐmen kěyǐ lái wǒ jiā chīfàn.
@@ -5309,7 +5310,7 @@
 16	饭	饭	NOUN	_	_	15	comp:obj	_	_
 17	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 1060
+# sent_id = chinese_beginner.A2.mSUD__291
 # structure = 请 + Verb
 # text = 请 进 。
 # pinyin = Qǐng jìn.
@@ -5321,7 +5322,7 @@
 2	进	进	VERB	_	_	1	comp:aux	_	_
 3	。	。	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 1061
+# sent_id = chinese_beginner.A2.mSUD__292
 # structure = 请 + Verb
 # text = 请 坐 。
 # pinyin = Qǐng zuò.
@@ -5333,7 +5334,7 @@
 2	坐	坐	VERB	_	_	1	comp:aux	_	_
 3	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 1062
+# sent_id = chinese_beginner.A2.mSUD__293
 # structure = 请 + Verb
 # text = 请 说 。
 # pinyin = Qǐng shuō.
@@ -5345,7 +5346,7 @@
 2	说	说	VERB	_	_	1	comp:aux	_	_
 3	。	。	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 1063
+# sent_id = chinese_beginner.A2.mSUD__294
 # structure = 请 (+ 你) + Verb Phrase
 # text = 请 喝 茶 。
 # pinyin = Qǐng hē chá.
@@ -5358,7 +5359,7 @@
 3	茶	茶	NOUN	_	_	2	comp:obj	_	_
 4	。	。	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 1064
+# sent_id = chinese_beginner.A2.mSUD__295
 # structure = 请 (+ 你) + Verb Phrase
 # text = 请 不要 迟到 。
 # pinyin = Qǐng bùyào chídào.
@@ -5373,7 +5374,7 @@
 5	到	到	VERB	_	_	4	@m	_	_
 6	。	。	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 1065
+# sent_id = chinese_beginner.A2.mSUD__296
 # structure = 请 (+ 你) + Verb Phrase
 # text = 请 尝 一 尝 。
 # pinyin = Qǐng cháng yī cháng.
@@ -5387,7 +5388,7 @@
 4	尝	尝	VERB	_	_	2	conj:redup@m	_	_
 5	。	。	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 1069
+# sent_id = chinese_beginner.A2.mSUD__297
 # structure = Subj. + 要 + Noun
 # text = 你 要 什么？
 # pinyin = Nǐ yào shénme?
@@ -5401,7 +5402,7 @@
 4	么	么	PRON	_	_	3	@m	_	_
 5	？	？	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 1070
+# sent_id = chinese_beginner.A2.mSUD__298
 # structure = Subj. + 要 + Noun
 # text = 我 要 一 杯 水。
 # pinyin = Wǒ yào yī bēi shuǐ.
@@ -5416,7 +5417,7 @@
 5	水	水	NOUN	_	_	2	comp:obj	_	_
 6	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 1071
+# sent_id = chinese_beginner.A2.mSUD__299
 # structure = Subj. + 要 + Noun
 # text = 你们 都 要 冰 可乐 吗？
 # pinyin = Nǐmen dōu yào bīng kělè ma?
@@ -5434,7 +5435,7 @@
 8	吗	吗	PART	_	Mood=Inter	4	discourse	_	_
 9	？	？	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 1072
+# sent_id = chinese_beginner.A2.mSUD__300
 # structure = Subj. + 要 + Noun
 # text = 你 要 茶 还是 咖啡？
 # pinyin = Nǐ yào chá háishì kāfēi?
@@ -5451,7 +5452,7 @@
 7	啡	啡	NOUN	_	_	6	@m	_	_
 8	？	？	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 1073
+# sent_id = chinese_beginner.A2.mSUD__301
 # structure = Subj. + 要 + Noun
 # text = 我们 要 三 碗 米饭。
 # pinyin = Wǒmen yào sān wǎn mǐfàn.
@@ -5468,7 +5469,7 @@
 7	饭	饭	NOUN	_	_	6	@m	_	_
 8	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 1074
+# sent_id = chinese_beginner.A2.mSUD__302
 # structure = Subj. + 要 + Verb
 # text = 你 要 喝 什么 酒？
 # pinyin = Nǐ yào hē shénme jiǔ?
@@ -5484,7 +5485,7 @@
 6	酒	酒	NOUN	_	_	3	comp:obj	_	_
 7	？	？	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 1075
+# sent_id = chinese_beginner.A2.mSUD__303
 # structure = Subj. + 要 + Verb
 # text = 爸爸 要 买 一 个 新 手机。
 # pinyin = Bàba yào mǎi yī gè xīn shǒujī.
@@ -5503,7 +5504,7 @@
 9	机	机	NOUN	_	_	8	@m	_	_
 10	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 1078
+# sent_id = chinese_beginner.A2.mSUD__304
 # structure = Subj. + 要 + Verb
 # text = 周末 你们 要 一起 看 电影 吗？
 # pinyin = Zhōumò nǐmen yào yīqǐ kàn diànyǐng ma?
@@ -5524,7 +5525,7 @@
 11	吗	吗	PART	_	Mood=Inter	5	discourse	_	_
 12	？	？	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 1079
+# sent_id = chinese_beginner.A2.mSUD__305
 # structure = Subj. + 要 + Verb
 # text = 你 要 早 点 睡觉。
 # pinyin = Nǐ yào zǎo diǎn shuìjiào.
@@ -5540,7 +5541,7 @@
 6	觉	觉	NOUN	_	_	5	comp:obj	_	_
 7	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 1082
+# sent_id = chinese_beginner.A2.mSUD__306
 # structure = Subj. + 要 + Verb
 # text = 老师 太 累 了， 要 好好 休息。
 # pinyin = Lǎoshī tài lèi le, yào hǎohāo xiūxi.
@@ -5561,7 +5562,7 @@
 11	息	息	NOUN	_	_	10	@m	_	_
 12	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 1085
+# sent_id = chinese_beginner.A2.mSUD__307
 # structure = Subj. + 要 + Verb
 # text = 12 点 我 要 去 吃饭。
 # pinyin = Shí'èr diǎn wǒ yào qù chīfàn.
@@ -5579,7 +5580,7 @@
 8	饭	饭	NOUN	_	_	7	comp:obj	_	_
 9	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 1086
+# sent_id = chinese_beginner.A2.mSUD__308
 # structure = Subj. + 要 + Verb
 # text = 老板 下周 要 出差 吗？
 # pinyin = Lǎobǎn xià zhōu yào chūchāi ma?
@@ -5597,7 +5598,7 @@
 8	吗	吗	PART	_	Mood=Inter	5	discourse	_	_
 9	？	？	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 1087
+# sent_id = chinese_beginner.A2.mSUD__309
 # structure = Subj. + 要 + Verb
 # text = 他们 明年 要 结婚 了。
 # pinyin = Tāmen míngnián yào jiéhūn le.
@@ -5615,7 +5616,7 @@
 8	了	了	PART	_	_	5	discourse	_	_
 9	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 1088
+# sent_id = chinese_beginner.A2.mSUD__310
 # structure = Subj. + 要 + Verb
 # text = 今年 你 要 回家 过年 吗？
 # pinyin = Jīnnián nǐ yào huíjiā guònián ma?
@@ -5634,7 +5635,7 @@
 9	吗	吗	PART	_	Mood=Inter	4	discourse	_	_
 10	？	？	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 1089
+# sent_id = chinese_beginner.A2.mSUD__311
 # structure = Subj. + 应该 + Verb + Obj.
 # text = 在 中国， 你 应该 喝 白酒。
 # pinyin = Zài Zhōngguó, nǐ yīnggāi hē báijiǔ.
@@ -5654,7 +5655,7 @@
 10	酒	酒	NOUN	_	_	8	comp:obj	_	_
 11	。	。	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 1090
+# sent_id = chinese_beginner.A2.mSUD__312
 # structure = Subj. + 应该 + Verb + Obj.
 # text = 我 应该 给 你 多少 钱？
 # pinyin = Wǒ yīnggāi gěi nǐ duōshao qián?
@@ -5672,7 +5673,7 @@
 8	钱	钱	NOUN	_	_	4	comp:obj	_	_
 9	？	？	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 1091
+# sent_id = chinese_beginner.A2.mSUD__313
 # structure = Subj. + 应该 + Verb + Obj.
 # text = 感冒 的 时候 应该 喝 热水。
 # pinyin = Gǎnmào de shíhou yīnggāi hē rè shuǐ.
@@ -5692,7 +5693,7 @@
 10	水	水	NOUN	_	_	8	comp:obj	_	_
 11	。	。	PUNCT	_	_	8	punct	_	_
 
-# sent_id = 1092
+# sent_id = chinese_beginner.A2.mSUD__314
 # structure = Subj. + 应该 + Verb + Obj.
 # text = 明天 你 应该 八 点 半 来 公司。
 # pinyin = Míngtiān nǐ yīnggāi bādiǎn bàn lái gōngsī.
@@ -5713,7 +5714,7 @@
 11	司	司	NOUN	_	_	10	@m	_	_
 12	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 1093
+# sent_id = chinese_beginner.A2.mSUD__315
 # structure = Subj. + 应该 + Verb + Obj.
 # text = 他 太 累 了，应该 回家 休息。
 # pinyin = Tā tài lèi le, yīnggāi huíjiā xiūxi.
@@ -5734,7 +5735,7 @@
 11	息	息	NOUN	_	_	10	@m	_	_
 12	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 1094
+# sent_id = chinese_beginner.A2.mSUD__316
 # structure = Subj. + 不 + 应该 + Verb + Obj.
 # text = 你 不 应该 告诉 他。
 # pinyin = Nǐ bù yīnggāi gàosu tā.
@@ -5751,7 +5752,7 @@
 7	他	他	PRON	_	Person=3	5	comp:obj	_	_
 8	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 1095
+# sent_id = chinese_beginner.A2.mSUD__317
 # structure = Subj. + 不 + 应该 + Verb + Obj.
 # text = 他 不 应该 打 人。
 # pinyin = Tā bù yīnggāi dǎ rén.
@@ -5767,7 +5768,7 @@
 6	人	人	NOUN	_	_	5	comp:obj	_	_
 7	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 1096
+# sent_id = chinese_beginner.A2.mSUD__318
 # structure = Subj. + 不 + 应该 + Verb + Obj.
 # text = 我们 不 应该 迟到。
 # pinyin = Wǒmen bù yīnggāi chídào.
@@ -5784,7 +5785,7 @@
 7	到	到	VERB	_	_	5	comp:aux	_	_
 8	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 1097
+# sent_id = chinese_beginner.A2.mSUD__319
 # structure = Subj. + 不 + 应该 + Verb + Obj.
 # text = 你们 不 应该 笑 她。
 # pinyin = Nǐmen bù yīnggāi xiào tā.
@@ -5801,7 +5802,7 @@
 7	她	她	PRON	_	Person=3	6	comp:obj	_	_
 8	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 1098
+# sent_id = chinese_beginner.A2.mSUD__320
 # structure = Subj. + 不 + 应该 + Verb + Obj.
 # text = 你们 不 应该 拿 别人 的 东西。
 # pinyin = Nǐmen bù yīnggāi ná biérén de dōngxi.
@@ -5822,7 +5823,7 @@
 11	西	西	NOUN	_	_	10	@m	_	_
 12	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 1099
+# sent_id = chinese_beginner.A2.mSUD__321
 # structure = Subj. + 会 + Verb + Obj.
 # text = 明天 你 会 来 吗 ？
 # pinyin = Míngtiān nǐ huì lái ma?
@@ -5838,7 +5839,7 @@
 6	吗	吗	PART	_	Mood=Inter	4	discourse	_	_
 7	？	？	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 1100
+# sent_id = chinese_beginner.A2.mSUD__322
 # structure = Subj. + 会 + Verb + Obj.
 # text = 他 会 来 看 你 吗？
 # pinyin = Tā huì lái kàn nǐ ma?
@@ -5854,7 +5855,7 @@
 6	吗	吗	PART	_	Mood=Inter	2	discourse	_	_
 7	？	？	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 1221
+# sent_id = chinese_beginner.A2.mSUD__323
 # structure = Subj. + 很 + [Certain Verbs]
 # text = 他 很 喜欢 你。
 # pinyin = Tā hěn xǐhuan nǐ.
@@ -5869,7 +5870,7 @@
 5	你	你	PRON	_	Person=2	3	comp:obj	_	_
 6	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 1222
+# sent_id = chinese_beginner.A2.mSUD__324
 # structure = Subj. + 很 + [Certain Verbs]
 # text = 你应该很 小心 。
 # pinyin = Nǐ yīnggāi hěn xiǎoxīn.
@@ -5885,7 +5886,7 @@
 6	心	心	ADJ	_	_	5	@m	_	_
 7	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 426
+# sent_id = chinese_beginner.A2.mSUD__325
 # structure = 差不多 + Adj. / Verb
 # text = 今天 的 工作 差不多 做 完 了。
 # pinyin = Jīntiān de gōngzuò chàbuduō zuò wán le.
@@ -5906,7 +5907,7 @@
 11	了	了	PART	_	_	9	discourse	_	_
 12	。	。	PUNCT	_	_	9	punct	_	_
 
-# sent_id = 509
+# sent_id = chinese_beginner.A2.mSUD__326
 # structure = Subj. + 刚 + Verb
 # text = 我 老婆 刚 生 完 孩子。
 # pinyin = Wǒ lǎopo gāng shēng wán háizi.
@@ -5924,7 +5925,7 @@
 8	子	子	NOUN	_	_	7	@m	_	_
 9	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 514
+# sent_id = chinese_beginner.A2.mSUD__327
 # structure = Subj. + 刚刚 + Verb
 # text = 我 老婆 刚 生 完 孩子。
 # level = A2
@@ -5940,7 +5941,7 @@
 8	子	子	NOUN	_	_	7	@m	_	_
 9	。	。	PUNCT	_	_	5	punct	_	_
 
-# sent_id = 1246
+# sent_id = chinese_beginner.A2.mSUD__328
 # structure = Subj. + (很) 好 + Verb
 # text = 这 个 汉字 很 好写。
 # level = A2
@@ -5955,7 +5956,7 @@
 7	写	写	VERB	_	_	0	root	_	Grammar_Target=Yes
 8	。	。	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 1247
+# sent_id = chinese_beginner.A2.mSUD__329
 # structure = Subj. + (很) 好 + Verb
 # text = 三明治 很 好做。
 # level = A2
@@ -5969,7 +5970,7 @@
 6	做	做	VERB	_	_	0	root	_	Grammar_Target=Yes
 7	。	。	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 1248
+# sent_id = chinese_beginner.A2.mSUD__330
 # structure = Subj. + (很) 好 + Verb
 # text = 苹果 手机 现在 很 好买。
 # level = A2
@@ -5986,7 +5987,7 @@
 9	买	买	VERB	_	_	0	root	_	Grammar_Target=Yes
 10	。	。	PUNCT	_	_	9	punct	_	_
 
-# sent_id = 1250
+# sent_id = chinese_beginner.A2.mSUD__331
 # structure = Subj. + Verb + 一下 + Obj.
 # text = 请 你 等 一下。You get the feeling that it shouldn't be a long wait.
 # pinyin = Qǐng nǐ děng yīxià.
@@ -6001,7 +6002,7 @@
 5	下	下	ADV	_	_	3	mod	_	Grammar_Target=Yes
 6	。	。	PUNCT	_	_	1	punct	_	_
 
-# sent_id = 1262
+# sent_id = chinese_beginner.A2.mSUD__332
 # structure = Subj. + Verb + [Indirect Obj.] + [Direct Obj.]
 # text = 我 想 告诉  你 一 个 好 消息 。
 # pinyin = Wǒ xiǎng gàosu  nǐ yī gè hǎo xiāoxi.
@@ -6021,7 +6022,7 @@
 10	息	息	NOUN	_	_	9	@m	_	_
 11	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 1263
+# sent_id = chinese_beginner.A2.mSUD__333
 # structure = Subj. + Verb + [Indirect Obj.] + [Direct Obj.]
 # text = 他们 给 了 你 多少 钱？
 # pinyin = Tāmen gěi le nǐ duōshao qián?
@@ -6039,7 +6040,7 @@
 8	钱	钱	NOUN	_	_	3	comp:obj	_	_
 9	？	？	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 1264
+# sent_id = chinese_beginner.A2.mSUD__334
 # structure = Subj. + Verb + [Indirect Obj.] + [Direct Obj.]
 # text = 他 送 了 女朋友 很 多 花。
 # pinyin = Tā sòng le nǚpéngyou hěn duō huā.
@@ -6058,7 +6059,7 @@
 9	花	花	NOUN	_	_	2	comp:obj	_	_
 10	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 1265
+# sent_id = chinese_beginner.A2.mSUD__335
 # structure = Subj. + Verb + [Indirect Obj.] + [Direct Obj.]
 # text = 我 想 送给 你 一 本 书。
 # pinyin = Wǒ xiǎng sòng gěi nǐ yī běn shū.
@@ -6076,7 +6077,7 @@
 8	书	书	NOUN	_	_	3	comp:obj	_	_
 9	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 1266
+# sent_id = chinese_beginner.A2.mSUD__336
 # structure = Subj. + Verb + [Indirect Obj.] + [Direct Obj.]
 # text = 爸爸 要 送给 我 一 个 很 贵 的 生日 礼物。
 # pinyin = Bàba yào sòng gěi wǒ yī gè hěn guì de  shēngrì lǐwù.
@@ -6101,7 +6102,7 @@
 15	物	物	NOUN	_	_	14	@m	_	_
 16	。	。	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 1267
+# sent_id = chinese_beginner.A2.mSUD__337
 # structure = Subj. + Verb + [Indirect Obj.] + [Direct Obj.]
 # text = 你 可以 借 我 两 千 块 钱 吗？
 # pinyin = Nǐ kěyǐ jiè wǒ liǎng qiān kuài qián ma?
@@ -6121,7 +6122,7 @@
 10	吗	吗	PART	_	Mood=Inter	2	discourse	_	_
 11	？	？	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 1268
+# sent_id = chinese_beginner.A2.mSUD__338
 # structure = Subj. + Verb + [Indirect Obj.] + [Direct Obj.]
 # text = 老板 刚 发给  我 上个月 的 工资。
 # pinyin = Lǎobǎn gāng fā gěi wǒ shàng gè yuè de  gōngzī.
@@ -6143,7 +6144,7 @@
 12	资	资	NOUN	_	_	11	@m	_	_
 13	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 1269
+# sent_id = chinese_beginner.A2.mSUD__339
 # structure = Subj. + Verb + [Indirect Obj.] + [Direct Obj.]
 # text = 这 个 人 骗 了  我 很 多 钱。
 # pinyin = Zhège rén piàn le wǒ hěn duō qián.
@@ -6162,7 +6163,7 @@
 9	钱	钱	NOUN	_	_	4	comp:obj	_	_
 10	。	。	PUNCT	_	_	4	punct	_	_
 
-# sent_id = 1270
+# sent_id = chinese_beginner.A2.mSUD__340
 # structure = Subj. +  Verb + 不懂
 # text = 我 看 不 懂 这 本 书。Literally, "read-not-understand"
 # pinyin = Wǒ kàn bu dǒng zhè běn shū.
@@ -6179,7 +6180,7 @@
 7	书	书	NOUN	_	_	2	comp:obj	_	_
 8	。	。	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 1271
+# sent_id = chinese_beginner.A2.mSUD__341
 # structure = Subj. +  Verb + 不懂
 # text = 孩子们 看 不 懂 你 写 的 汉字。Literally, "read-not-understand"
 # pinyin = Háizi men kàn bu dǒng nǐ xiě de Hànzì.
