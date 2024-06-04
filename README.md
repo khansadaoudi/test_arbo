@@ -31,7 +31,7 @@ Here an example of the meta data that each sentences contains :
 # url = https://resources.allsetlearning.com/chinese/grammar/ASGPNV3Q
 ```
 
-PS : At the moment, some of the sentences in the C1 part are missing the pinyin (transliteration)
+PS : At the moment, some of the sentences in the C1 part are missing the pinyin 
 
 ## Morpheme level of annotation
 To be independent of the results of a pre tokenization, we decided to annotate the corpus on the morpheme level. It means that each character is a node/token of the sentence, and relations xxx@m (m for morpheme) are linking characters of a same "word unit".
