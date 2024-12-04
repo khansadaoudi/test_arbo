@@ -10,7 +10,7 @@
 2	饿	饿	ADJ	_	_	0	root	_	_
 3	死	死	ADV	_	_	2	mod	_	Grammar_Target=Yes
 4	了	了	PART	_	_	3	discourse	_	Grammar_Target=Yes
-5	。	。	PUNCT	_	_	2	punct	_	_
+5	。	。	PUNCT	_	_	2	_	_	_
 
 # sent_id = chinese_beginner.A2.mSUD__2
 # structure = Adj. + 死了
