@@ -11,7 +11,7 @@
 4	容	容	ADJ	_	_	_	_	_	_
 5	易	易	ADJ	_	_	_	_	_	_
 6	，	，	PUNCT	_	_	_	_	_	_
-7	那	那	PART	_	_	5	mod	_	_
+7	那	那	PART	_	_	5	conj	_	_
 8	你	你	PRON	_	Person=2	_	_	_	_
 9	来	来	VERB	_	_	_	_	_	_
 10	！	！	PUNCT	_	_	_	_	_	_
